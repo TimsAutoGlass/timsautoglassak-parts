@@ -8,6 +8,7 @@ function generateReverseIndex() {
   console.log('🔄 Generating Part Number Reverse Index & Interchange Guide...');
   
   const index = {}; // { "FW04567": { features: [], fitment: [{make, model, year}] } }
+  const allVehicles = new Set();
 
   // Recursively traverse
   function traverseDirs(currentPath, makes, models, years) {
@@ -42,12 +43,23 @@ function generateReverseIndex() {
             if (p.features) p.features.forEach(f => index[pid].features.add(f));
             
             // Add fitment map
+            const makeStr = makes.toUpperCase();
+            const modelStr = models.toUpperCase().replace(/-/g, ' ');
+            const glassStr = glassType.replace('_', ' ').toUpperCase();
+            
             index[pid].fitment.push({
-              make: makes.toUpperCase(),
-              model: models.toUpperCase().replace(/-/g, ' '),
+              make: makeStr,
+              model: modelStr,
               year: years,
-              glass_type: glassType.replace('_', ' ').toUpperCase()
+              glass_type: glassStr
             });
+            
+            allVehicles.add(JSON.stringify({
+              make: makeStr,
+              model: modelStr,
+              year: years,
+              type: glassStr.includes('WINDSHIELD') ? 'FRONT/WINDSHIELD' : 'BACK/BODY'
+            }));
           }
         }
       }
@@ -93,8 +105,32 @@ function generateReverseIndex() {
     path.join(OUT_DIR, '_master.json'), 
     JSON.stringify(summary.sort((a, b) => b.count - a.count), null, 2)
   );
+  
+  // Write a master index of ALL covered vehicles
+  const vehiclesArr = Array.from(allVehicles).map(v => JSON.parse(v));
+  const deDupeVehicles = [];
+  const vMap = new Set();
+  // Filter down to just unique Make/Model/Year (throw out duplicate body types)
+  vehiclesArr.forEach(v => {
+    const key = `${v.make}|${v.model}|${v.year}`;
+    if (!vMap.has(key)) {
+      vMap.add(key);
+      deDupeVehicles.push({
+        make: v.make,
+        model: v.model,
+        year: v.year,
+        type: v.type // Keep primary classification
+      });
+    }
+  });
+
+  fs.writeFileSync(
+    path.join(OUT_DIR, '_vehicles_master.json'), 
+    JSON.stringify(deDupeVehicles.sort((a, b) => b.year - a.year), null, 2)
+  );
 
   console.log(`✅ Generated ${count} unique part profiles in /data/parts-index/`);
+  console.log(`✅ Indexed ${deDupeVehicles.length} fully covered vehicles in /data/parts-index/_vehicles_master.json`);
 }
 
 generateReverseIndex();

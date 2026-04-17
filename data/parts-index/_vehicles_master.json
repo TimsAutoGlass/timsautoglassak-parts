@@ -1,0 +1,2342 @@
+[
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2023",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2022",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2021",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2020",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2019",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "COLORADO",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "EXPRESS",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "MALIBU",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SILVERADO 1500",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "SUBURBAN",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "CHEVROLET",
+    "model": "TAHOE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "DODGE",
+    "model": "DURANGO",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EDGE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "ESCAPE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "EXPLORER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 150",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 250",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "F 350",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "FUSION",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "RANGER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "FORD",
+    "model": "TRANSIT",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "CANYON",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SAVANA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "SIERRA 1500",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "TERRAIN",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "GMC",
+    "model": "YUKON",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "ACCORD",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "CR V",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HONDA",
+    "model": "HR V",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "KONA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SANTA FE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "SONATA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "HYUNDAI",
+    "model": "TUCSON",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "CHEROKEE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "COMPASS",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "JEEP",
+    "model": "GRAND CHEROKEE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "OPTIMA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SORENTO",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "KIA",
+    "model": "TELLURIDE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 5",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MAZDA",
+    "model": "CX 9",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "MERCEDES-BENZ",
+    "model": "SPRINTER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "FRONTIER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "NV200",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "PATHFINDER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "ROGUE",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "NISSAN",
+    "model": "SENTRA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "1500",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "2500",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "3500",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "RAM",
+    "model": "PROMASTER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "CROSSTREK",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "FORESTER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "LEGACY",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "SUBARU",
+    "model": "OUTBACK",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL 3",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TESLA",
+    "model": "MODEL Y",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "4RUNNER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "CAMRY",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "HIGHLANDER",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "RAV4",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TACOMA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "TOYOTA",
+    "model": "TUNDRA",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "PASSAT",
+    "year": "2018",
+    "type": "BACK/BODY"
+  },
+  {
+    "make": "VOLKSWAGEN",
+    "model": "TIGUAN",
+    "year": "2018",
+    "type": "BACK/BODY"
+  }
+]

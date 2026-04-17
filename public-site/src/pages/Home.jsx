@@ -8,22 +8,21 @@ export default function Home() {
   const [makes, setMakes] = useState([]);
 
   useEffect(() => {
-    // We are natively fetching the CF Pages mounted static files that the repo generates
-    // In dev mode, this hits the `public/api/` folder we copy over.
+    // Fetch Supported Makes count
     fetch('/api/vehicles-index/makes.json')
       .then(res => res.json())
       .then(data => {
         if (data && data.makes) setMakes(data.makes);
       })
       .catch(console.error);
-    
-    // For a fast demo, we'll fetch the top 50 vehicles index or just mock a few for the search presentation
-    setVehicles([
-      { make: 'FORD', model: 'F-150', year: 2019, type: 'PICKUP' },
-      { make: 'CHEVROLET', model: 'SILVERADO 1500', year: 2021, type: 'PICKUP' },
-      { make: 'KIA', model: 'SORENTO', year: 2019, type: 'SUV' },
-      { make: 'TOYOTA', model: 'TACOMA', year: 2022, type: 'PICKUP' }
-    ]);
+      
+    // Fetch full master registry of currently processed vehicles inside the graph
+    fetch('/api/parts-index/_vehicles_master.json')
+      .then(res => res.json())
+      .then(data => {
+        if (Array.isArray(data)) setVehicles(data);
+      })
+      .catch(console.error);
   }, []);
 
   const filtered = search.trim() === '' 
@@ -74,18 +73,23 @@ export default function Home() {
 
       <div className="animate-in delay-2" style={{ marginTop: '3rem' }}>
         <h2 style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', borderBottom: '1px solid var(--border)', paddingBottom: '0.5rem' }}>
-          <span>Trending Lookups</span>
-          <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)', fontWeight: 400 }}>{makes.length} Supported Makes</span>
+          <span>{search.trim() === '' ? 'Latest Additions' : 'Search Results'}</span>
+          <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)', fontWeight: 400 }}>{filtered.length} matches across {makes.length} Supported Makes</span>
         </h2>
         
         <div className="results-grid">
-          {filtered.map((v, i) => (
-            <Link to={`/vehicle/${v.make.toLowerCase()}/${v.model.toLowerCase().replace(/ /g, '-')}/${v.year}`} key={i} className="glass vehicle-card" style={{ animationDelay: `${i * 0.1}s` }}>
+          {filtered.slice(0, 16).map((v, i) => (
+            <Link to={`/vehicle/${v.make.toLowerCase()}/${v.model.toLowerCase().replace(/ /g, '-')}/${v.year}`} key={i} className="glass vehicle-card" style={{ animationDelay: `${(i % 8) * 0.1}s` }}>
               <div style={{ color: 'var(--primary)', fontWeight: 600, fontSize: '0.875rem' }}>{v.year}</div>
               <h3>{v.make} {v.model}</h3>
               <div className="tag" style={{ marginTop: 'auto' }}>{v.type}</div>
             </Link>
           ))}
+          {filtered.length > 16 && (
+            <div style={{ gridColumn: '1 / -1', textAlign: 'center', color: 'var(--text-muted)', padding: '1rem', fontSize: '0.875rem' }}>
+              Refine your search to see more than 16 results.
+            </div>
+          )}
         </div>
       </div>
     </div>
