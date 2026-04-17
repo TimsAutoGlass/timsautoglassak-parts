@@ -14,6 +14,7 @@
     "ingest:years": "node scripts/ingest/fetch-nhtsa-years.js",
     "normalize": "node scripts/normalize/normalize-names.js",
     "validate": "node scripts/validate/validate-schema.js",
+    "auto:market": "node scripts/automation/daily-market-scrape.js",
     "generate:top50": "node scripts/generate-top-vehicles.js",
     "build": "npm run ingest:makes && npm run ingest:models && npm run normalize && npm run validate"
   },
