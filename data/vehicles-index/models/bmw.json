@@ -1,0 +1,22 @@
+{
+  "make": "BMW",
+  "total_models": 16,
+  "models": [
+    "2 SERIES",
+    "3 SERIES",
+    "4 SERIES",
+    "5 SERIES",
+    "7 SERIES",
+    "8 SERIES",
+    "I4",
+    "IX",
+    "X1",
+    "X2",
+    "X3",
+    "X4",
+    "X5",
+    "X6",
+    "X7",
+    "Z4"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "make": "PONTIAC",
+  "model": "G8",
+  "production_start": 2008,
+  "production_end": 2009,
+  "total_years": 2,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

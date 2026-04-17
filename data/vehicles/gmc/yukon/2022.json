@@ -1,0 +1,73 @@
+{
+  "year": 2022,
+  "make": "GMC",
+  "model": "YUKON",
+  "body_class": "SUV",
+  "glass_layout": "suv",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor"
+      ],
+      "price": [
+        380,
+        600
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        380,
+        750
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    }
+  },
+  "confidence": 0.88,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived",
+    "market_data"
+  ]
+}

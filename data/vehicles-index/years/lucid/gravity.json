@@ -1,0 +1,20 @@
+{
+  "make": "LUCID",
+  "model": "GRAVITY",
+  "production_start": 2025,
+  "production_end": 2026,
+  "total_years": 2,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2025,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

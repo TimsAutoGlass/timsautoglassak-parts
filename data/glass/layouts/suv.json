@@ -1,0 +1,20 @@
+{
+  "type": "SUV",
+  "description": "Sport utility vehicles — compact, mid-size, and full-size SUVs and crossovers",
+  "typical_panel_count": 8,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door",
+    "rear_left_door",
+    "rear_right_door",
+    "quarter_left",
+    "quarter_right"
+  ],
+  "optional_panels": [
+    "sunroof",
+    "liftgate"
+  ],
+  "notes": "3-row SUVs often have fixed quarter glass behind rear doors. Some have liftgate glass separate from back glass."
+}

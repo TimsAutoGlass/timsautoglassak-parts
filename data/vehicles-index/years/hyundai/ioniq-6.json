@@ -1,0 +1,30 @@
+{
+  "make": "HYUNDAI",
+  "model": "IONIQ 6",
+  "production_start": 2023,
+  "production_end": 2026,
+  "total_years": 4,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2023,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2024,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

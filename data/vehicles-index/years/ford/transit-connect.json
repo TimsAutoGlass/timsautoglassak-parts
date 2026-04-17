@@ -1,0 +1,80 @@
+{
+  "make": "FORD",
+  "model": "TRANSIT CONNECT",
+  "production_start": 2010,
+  "production_end": 2023,
+  "total_years": 14,
+  "body_class": "VAN",
+  "years": [
+    {
+      "year": 2010,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2023,
+      "body_class": "VAN",
+      "doors": 4
+    }
+  ]
+}

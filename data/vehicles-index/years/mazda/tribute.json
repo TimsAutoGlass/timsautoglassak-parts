@@ -1,0 +1,65 @@
+{
+  "make": "MAZDA",
+  "model": "TRIBUTE",
+  "production_start": 2001,
+  "production_end": 2011,
+  "total_years": 11,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2001,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

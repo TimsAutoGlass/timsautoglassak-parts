@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "vehicle.schema.json",
+  "title": "Vehicle Profile",
+  "description": "Full vehicle profile with glass data for Tim's Auto Glass Parts Intelligence",
+  "type": "object",
+  "required": ["year", "make", "model", "body_class", "glass_layout"],
+  "properties": {
+    "year": {
+      "type": "integer",
+      "minimum": 1990,
+      "maximum": 2030
+    },
+    "make": {
+      "type": "string",
+      "pattern": "^[A-Z][A-Z0-9 \\-]+$",
+      "description": "Normalized make name (ALL CAPS)"
+    },
+    "model": {
+      "type": "string",
+      "description": "Normalized model name"
+    },
+    "body_class": {
+      "type": "string",
+      "enum": ["SEDAN", "SUV", "PICKUP", "COUPE", "HATCHBACK", "VAN", "WAGON", "CONVERTIBLE", "CROSSOVER"]
+    },
+    "glass_layout": {
+      "type": "string",
+      "description": "Reference to glass layout template (e.g. 'suv', 'pickup')"
+    },
+    "doors": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 5
+    },
+    "features": {
+      "type": "object",
+      "properties": {
+        "adas": { "type": "boolean", "description": "Advanced Driver Assistance System camera in windshield" },
+        "rain_sensor": { "type": "boolean", "description": "Rain-sensing wipers" },
+        "heated": { "type": "boolean", "description": "Heated windshield" },
+        "acoustic": { "type": "boolean", "description": "Acoustic/noise-reducing glass" },
+        "heads_up_display": { "type": "boolean", "description": "HUD projection windshield" },
+        "lane_departure": { "type": "boolean", "description": "Lane departure camera" }
+      }
+    },
+    "glass": {
+      "type": "object",
+      "properties": {
+        "windshield": { "$ref": "#/definitions/glass_panel" },
+        "back_glass": { "$ref": "#/definitions/glass_panel" },
+        "front_left_door": { "$ref": "#/definitions/glass_panel" },
+        "front_right_door": { "$ref": "#/definitions/glass_panel" },
+        "rear_left_door": { "$ref": "#/definitions/glass_panel" },
+        "rear_right_door": { "$ref": "#/definitions/glass_panel" },
+        "quarter_left": { "$ref": "#/definitions/glass_panel" },
+        "quarter_right": { "$ref": "#/definitions/glass_panel" },
+        "rear_slider": { "$ref": "#/definitions/glass_panel" },
+        "sunroof": { "$ref": "#/definitions/glass_panel" }
+      }
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence score for pricing estimates (0-1)"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "definitions": {
+    "glass_panel": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["laminated", "tempered"]
+        },
+        "features": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "estimated_price": {
+          "type": "array",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "[min, max] price range in USD"
+        }
+      }
+    }
+  }
+}

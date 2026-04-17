@@ -1,0 +1,40 @@
+{
+  "make": "ALFA ROMEO",
+  "model": "4C",
+  "production_start": 2015,
+  "production_end": 2020,
+  "total_years": 6,
+  "body_class": "COUPE",
+  "years": [
+    {
+      "year": 2015,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2016,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2017,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2018,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2019,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2020,
+      "body_class": "COUPE",
+      "doors": 2
+    }
+  ]
+}

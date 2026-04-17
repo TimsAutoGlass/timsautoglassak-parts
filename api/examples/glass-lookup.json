@@ -1,0 +1,30 @@
+{
+  "endpoint": "POST /glass/lookup",
+  "description": "Lookup glass layout and features for a specific vehicle",
+  "request": {
+    "year": 2022,
+    "make": "SUBARU",
+    "model": "OUTBACK"
+  },
+  "response": {
+    "success": true,
+    "vehicle": {
+      "year": 2022,
+      "make": "SUBARU",
+      "model": "OUTBACK",
+      "body_class": "WAGON"
+    },
+    "glass_layout": {
+      "type": "SUV",
+      "panels": ["windshield", "back_glass", "front_left_door", "front_right_door", "rear_left_door", "rear_right_door", "quarter_left", "quarter_right"]
+    },
+    "features": {
+      "adas": true,
+      "adas_system": "EyeSight",
+      "rain_sensor": true,
+      "heated": false,
+      "recalibration_required": true
+    },
+    "confidence": 0.92
+  }
+}

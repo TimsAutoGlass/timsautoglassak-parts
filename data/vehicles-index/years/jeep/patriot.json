@@ -1,0 +1,65 @@
+{
+  "make": "JEEP",
+  "model": "PATRIOT",
+  "production_start": 2007,
+  "production_end": 2017,
+  "total_years": 11,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

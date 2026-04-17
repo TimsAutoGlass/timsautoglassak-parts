@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-17",
+  "currency": "USD",
+  "notes": "Price modifiers applied on top of base panel prices when features are present.",
+  "modifiers": [
+    {
+      "feature": "adas",
+      "amount": 150,
+      "description": "ADAS camera bracket, wiring harness, or integrated camera mount in windshield"
+    },
+    {
+      "feature": "adas_recalibration",
+      "amount": 250,
+      "description": "ADAS camera recalibration after windshield replacement (static or dynamic)"
+    },
+    {
+      "feature": "rain_sensor",
+      "amount": 75,
+      "description": "Rain sensor gel pad and optical sensor alignment"
+    },
+    {
+      "feature": "heated",
+      "amount": 100,
+      "description": "Heated windshield with embedded heating elements or conductive coating"
+    },
+    {
+      "feature": "acoustic",
+      "amount": 50,
+      "description": "Acoustic/sound-dampening laminated glass"
+    },
+    {
+      "feature": "heads_up_display",
+      "amount": 200,
+      "description": "HUD-compatible windshield with special coating for projection clarity"
+    },
+    {
+      "feature": "lane_departure",
+      "amount": 100,
+      "description": "Lane departure warning camera integrated into windshield"
+    },
+    {
+      "feature": "solar_tint",
+      "amount": 30,
+      "description": "Solar IR-blocking tint band at top of windshield"
+    },
+    {
+      "feature": "oem_upgrade",
+      "amount": 200,
+      "description": "OEM glass instead of aftermarket — higher quality, exact fit"
+    },
+    {
+      "feature": "privacy_tint",
+      "amount": 40,
+      "description": "Factory privacy tint on back glass and rear quarters"
+    }
+  ]
+}

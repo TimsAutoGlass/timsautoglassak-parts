@@ -1,0 +1,30 @@
+{
+  "make": "ACURA",
+  "model": "INTEGRA",
+  "production_start": 2023,
+  "production_end": 2026,
+  "total_years": 4,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2023,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2024,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

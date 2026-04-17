@@ -1,0 +1,20 @@
+{
+  "type": "PICKUP",
+  "description": "Full-size and mid-size pickup trucks — standard cab, extended cab, and crew cab configurations",
+  "typical_panel_count": 8,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door",
+    "rear_left_door",
+    "rear_right_door",
+    "quarter_left",
+    "quarter_right"
+  ],
+  "optional_panels": [
+    "rear_slider",
+    "sunroof"
+  ],
+  "notes": "Rear slider is common on full-size trucks. Some extended cabs have fixed quarter glass instead of rear doors."
+}

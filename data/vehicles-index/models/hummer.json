@@ -1,0 +1,9 @@
+{
+  "make": "HUMMER",
+  "total_models": 3,
+  "models": [
+    "H2",
+    "H3",
+    "H3T"
+  ]
+}

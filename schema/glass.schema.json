@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "glass.schema.json",
+  "title": "Glass Layout",
+  "description": "Glass panel layout template by body class",
+  "type": "object",
+  "required": ["type", "panels"],
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["SEDAN", "SUV", "PICKUP", "COUPE", "HATCHBACK", "VAN", "WAGON", "CONVERTIBLE", "CROSSOVER"],
+      "description": "Body class this layout applies to"
+    },
+    "panels": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "windshield",
+          "back_glass",
+          "front_left_door",
+          "front_right_door",
+          "rear_left_door",
+          "rear_right_door",
+          "quarter_left",
+          "quarter_right",
+          "rear_slider",
+          "sunroof",
+          "sliding_left_door",
+          "sliding_right_door",
+          "liftgate"
+        ]
+      },
+      "description": "List of glass panels present on this body class"
+    },
+    "description": {
+      "type": "string"
+    },
+    "typical_panel_count": {
+      "type": "integer",
+      "description": "Total number of glass panels"
+    }
+  }
+}

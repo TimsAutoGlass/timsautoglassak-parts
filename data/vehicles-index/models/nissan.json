@@ -1,0 +1,26 @@
+{
+  "make": "NISSAN",
+  "total_models": 20,
+  "models": [
+    "370Z",
+    "ALTIMA",
+    "ARIYA",
+    "ARMADA",
+    "FRONTIER",
+    "JUKE",
+    "KICKS",
+    "LEAF",
+    "MAXIMA",
+    "MURANO",
+    "NV",
+    "PATHFINDER",
+    "QUEST",
+    "ROGUE",
+    "ROGUE SPORT",
+    "SENTRA",
+    "TITAN",
+    "VERSA",
+    "XTERRA",
+    "Z"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "make": "DODGE",
+  "total_models": 16,
+  "models": [
+    "AVENGER",
+    "CALIBER",
+    "CHALLENGER",
+    "CHARGER",
+    "DAKOTA",
+    "DART",
+    "DURANGO",
+    "GRAND CARAVAN",
+    "HORNET",
+    "JOURNEY",
+    "NEON",
+    "NITRO",
+    "RAM 1500",
+    "RAM 2500",
+    "RAM 3500",
+    "STRATUS"
+  ]
+}

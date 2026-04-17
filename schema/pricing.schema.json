@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "pricing.schema.json",
+  "title": "Pricing Data",
+  "description": "Base pricing and modifier schema for auto glass",
+  "type": "object",
+  "definitions": {
+    "price_range": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "[min, max] price range in USD"
+    },
+    "modifier": {
+      "type": "object",
+      "properties": {
+        "feature": { "type": "string" },
+        "amount": { "type": "number", "description": "Additional cost in USD" },
+        "description": { "type": "string" }
+      },
+      "required": ["feature", "amount"]
+    }
+  },
+  "properties": {
+    "panels": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/definitions/price_range"
+      },
+      "description": "Base price ranges per glass panel type"
+    },
+    "modifiers": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/modifier" },
+      "description": "Feature-based price modifiers"
+    },
+    "regional": {
+      "type": "object",
+      "properties": {
+        "region": { "type": "string" },
+        "shipping_surcharge": { "type": "number" },
+        "availability_modifier": { "type": "number" },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

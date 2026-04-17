@@ -1,0 +1,14 @@
+{
+  "make": "MERCURY",
+  "total_models": 8,
+  "models": [
+    "COUGAR",
+    "GRAND MARQUIS",
+    "MARINER",
+    "MILAN",
+    "MONTEREY",
+    "MOUNTAINEER",
+    "SABLE",
+    "VILLAGER"
+  ]
+}

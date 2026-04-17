@@ -1,0 +1,45 @@
+{
+  "make": "VOLVO",
+  "model": "V50",
+  "production_start": 2005,
+  "production_end": 2011,
+  "total_years": 7,
+  "body_class": "WAGON",
+  "years": [
+    {
+      "year": 2005,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "WAGON",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "make": "CADILLAC",
+  "total_models": 13,
+  "models": [
+    "ATS",
+    "CT4",
+    "CT5",
+    "CTS",
+    "DEVILLE",
+    "DTS",
+    "ESCALADE",
+    "LYRIQ",
+    "SRX",
+    "XT4",
+    "XT5",
+    "XT6",
+    "XTS"
+  ]
+}

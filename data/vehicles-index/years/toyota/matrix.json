@@ -1,0 +1,70 @@
+{
+  "make": "TOYOTA",
+  "model": "MATRIX",
+  "production_start": 2003,
+  "production_end": 2014,
+  "total_years": 12,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2003,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

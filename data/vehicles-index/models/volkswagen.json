@@ -1,0 +1,20 @@
+{
+  "make": "VOLKSWAGEN",
+  "total_models": 14,
+  "models": [
+    "ARTEON",
+    "ATLAS",
+    "ATLAS CROSS SPORT",
+    "BEETLE",
+    "CC",
+    "GOLF",
+    "GOLF R",
+    "GTI",
+    "ID.4",
+    "JETTA",
+    "PASSAT",
+    "TAOS",
+    "TIGUAN",
+    "TOUAREG"
+  ]
+}

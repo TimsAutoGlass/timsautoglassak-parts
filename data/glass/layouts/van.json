@@ -1,0 +1,20 @@
+{
+  "type": "VAN",
+  "description": "Minivans, cargo vans, and passenger vans with sliding door configurations",
+  "typical_panel_count": 8,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door",
+    "sliding_left_door",
+    "sliding_right_door",
+    "quarter_left",
+    "quarter_right"
+  ],
+  "optional_panels": [
+    "sunroof",
+    "liftgate"
+  ],
+  "notes": "Sliding doors have unique glass configurations. Cargo vans may lack rear quarter glass. Minivans typically have power sliding doors."
+}

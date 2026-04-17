@@ -1,0 +1,25 @@
+{
+  "make": "CHRYSLER",
+  "model": "VOYAGER",
+  "production_start": 2020,
+  "production_end": 2022,
+  "total_years": 3,
+  "body_class": "VAN",
+  "years": [
+    {
+      "year": 2020,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "VAN",
+      "doors": 4
+    }
+  ]
+}

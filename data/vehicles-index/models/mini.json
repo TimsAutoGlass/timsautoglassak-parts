@@ -1,0 +1,11 @@
+{
+  "make": "MINI",
+  "total_models": 5,
+  "models": [
+    "CLUBMAN",
+    "CONVERTIBLE",
+    "COOPER",
+    "COUNTRYMAN",
+    "PACEMAN"
+  ]
+}

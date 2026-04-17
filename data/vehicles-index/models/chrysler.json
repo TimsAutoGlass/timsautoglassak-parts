@@ -1,0 +1,14 @@
+{
+  "make": "CHRYSLER",
+  "total_models": 8,
+  "models": [
+    "200",
+    "300",
+    "ASPEN",
+    "PACIFICA",
+    "PT CRUISER",
+    "SEBRING",
+    "TOWN & COUNTRY",
+    "VOYAGER"
+  ]
+}

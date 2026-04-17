@@ -1,0 +1,25 @@
+{
+  "make": "INFINITI",
+  "model": "M37",
+  "production_start": 2011,
+  "production_end": 2013,
+  "total_years": 3,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

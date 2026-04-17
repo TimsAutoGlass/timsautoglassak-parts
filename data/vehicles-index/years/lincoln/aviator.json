@@ -1,0 +1,45 @@
+{
+  "make": "LINCOLN",
+  "model": "AVIATOR",
+  "production_start": 2020,
+  "production_end": 2026,
+  "total_years": 7,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2020,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2023,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2024,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

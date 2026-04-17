@@ -1,0 +1,17 @@
+{
+  "feature": "heated",
+  "name": "Heated Windshield",
+  "description": "Windshield with embedded heating elements or conductive coating for rapid defogging and de-icing. Premium feature especially valuable in cold climates like Alaska.",
+  "price_impact": 100,
+  "common_on": [
+    { "make": "FORD", "models": ["F-150", "EXPLORER", "EXPEDITION", "EDGE"], "notes": "Available as option on most models 2015+" },
+    { "make": "LAND ROVER", "models": ["RANGE ROVER", "RANGE ROVER SPORT", "DISCOVERY", "DEFENDER"], "notes": "Standard on most models" },
+    { "make": "JAGUAR", "models": ["F-PACE", "E-PACE", "XF"], "notes": "Standard on UK-market vehicles" },
+    { "make": "VOLKSWAGEN", "models": ["GOLF", "TIGUAN", "ATLAS"], "notes": "Available as cold weather package" },
+    { "make": "VOLVO", "models": ["XC90", "XC60", "XC40", "S60"], "notes": "Available in cold climate package" },
+    { "make": "BMW", "models": ["X5", "7 SERIES"], "notes": "Optional on premium trims" },
+    { "make": "MERCEDES-BENZ", "models": ["S-CLASS", "GLS"], "notes": "Optional on flagship models" },
+    { "make": "SUBARU", "models": ["OUTBACK", "FORESTER"], "notes": "Heated wiper de-icer zone common" }
+  ],
+  "notes": "Heated windshields are less common than ADAS or rain sensors. Ford is the most common domestic brand offering this. Very desirable in Alaska market."
+}

@@ -1,0 +1,11 @@
+{
+  "make": "TESLA",
+  "total_models": 5,
+  "models": [
+    "CYBERTRUCK",
+    "MODEL 3",
+    "MODEL S",
+    "MODEL X",
+    "MODEL Y"
+  ]
+}

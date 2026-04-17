@@ -1,0 +1,25 @@
+{
+  "make": "MERCEDES-BENZ",
+  "total_models": 19,
+  "models": [
+    "A-CLASS",
+    "AMG GT",
+    "C-CLASS",
+    "CLA",
+    "E-CLASS",
+    "EQB",
+    "EQE",
+    "EQS",
+    "GL-CLASS",
+    "GLA",
+    "GLB",
+    "GLC",
+    "GLE",
+    "GLK-CLASS",
+    "GLS",
+    "METRIS",
+    "ML-CLASS",
+    "S-CLASS",
+    "SPRINTER"
+  ]
+}

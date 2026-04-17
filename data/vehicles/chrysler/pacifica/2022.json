@@ -1,0 +1,72 @@
+{
+  "year": 2022,
+  "make": "CHRYSLER",
+  "model": "PACIFICA",
+  "body_class": "VAN",
+  "glass_layout": "van",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor"
+      ],
+      "price": [
+        300,
+        480
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        280,
+        550
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        220
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        220
+      ]
+    },
+    "sliding_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        150,
+        320
+      ]
+    },
+    "sliding_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        150,
+        320
+      ]
+    }
+  },
+  "confidence": 0.85,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived"
+  ]
+}

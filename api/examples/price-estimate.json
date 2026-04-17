@@ -1,0 +1,45 @@
+{
+  "endpoint": "POST /price/estimate",
+  "description": "Get price estimate for glass replacement including features and Alaska adjustments",
+  "request": {
+    "year": 2023,
+    "make": "FORD",
+    "model": "F-150",
+    "panel": "windshield",
+    "region": "alaska"
+  },
+  "response": {
+    "success": true,
+    "vehicle": {
+      "year": 2023,
+      "make": "FORD",
+      "model": "F-150",
+      "body_class": "PICKUP"
+    },
+    "estimate": {
+      "panel": "windshield",
+      "glass_type": "laminated",
+      "base_price": [200, 400],
+      "features_detected": ["adas", "rain_sensor", "heated"],
+      "feature_modifiers": {
+        "adas": 150,
+        "rain_sensor": 75,
+        "heated": 100
+      },
+      "subtotal": [525, 725],
+      "regional_adjustments": {
+        "alaska_shipping": 75,
+        "availability": "common"
+      },
+      "total_estimate": [600, 800],
+      "recalibration": {
+        "required": true,
+        "estimated_cost": [150, 350]
+      },
+      "labor_estimate": [80, 150]
+    },
+    "grand_total": [830, 1300],
+    "confidence": 0.88,
+    "disclaimer": "Prices are estimates. Final pricing depends on vehicle inspection, trim level, and parts availability."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "feature": "adas",
+  "name": "Advanced Driver Assistance System",
+  "description": "Camera mounted to the windshield for lane keeping, collision avoidance, and adaptive cruise control. Requires recalibration after windshield replacement.",
+  "price_impact": 150,
+  "recalibration_required": true,
+  "recalibration_cost_range": [150, 350],
+  "common_systems": [
+    { "make": "SUBARU", "system_name": "EyeSight", "years_start": 2013 },
+    { "make": "TOYOTA", "system_name": "Toyota Safety Sense", "years_start": 2015 },
+    { "make": "HONDA", "system_name": "Honda Sensing", "years_start": 2015 },
+    { "make": "HYUNDAI", "system_name": "SmartSense", "years_start": 2017 },
+    { "make": "KIA", "system_name": "Drive Wise", "years_start": 2017 },
+    { "make": "FORD", "system_name": "Co-Pilot360", "years_start": 2019 },
+    { "make": "CHEVROLET", "system_name": "Chevy Safety Assist", "years_start": 2020 },
+    { "make": "NISSAN", "system_name": "Safety Shield 360", "years_start": 2018 },
+    { "make": "MAZDA", "system_name": "i-Activsense", "years_start": 2017 },
+    { "make": "VOLKSWAGEN", "system_name": "IQ.DRIVE", "years_start": 2019 },
+    { "make": "BMW", "system_name": "Active Driving Assistant", "years_start": 2014 },
+    { "make": "MERCEDES-BENZ", "system_name": "Driver Assistance Package", "years_start": 2014 },
+    { "make": "AUDI", "system_name": "Audi Pre Sense", "years_start": 2015 },
+    { "make": "TESLA", "system_name": "Autopilot", "years_start": 2014 },
+    { "make": "VOLVO", "system_name": "IntelliSafe", "years_start": 2014 },
+    { "make": "LEXUS", "system_name": "Lexus Safety System+", "years_start": 2017 },
+    { "make": "GENESIS", "system_name": "Genesis Active Safety Control", "years_start": 2019 },
+    { "make": "GMC", "system_name": "GMC ProSafety", "years_start": 2020 },
+    { "make": "RAM", "system_name": "Active Safety Group", "years_start": 2019 },
+    { "make": "JEEP", "system_name": "Active Safety Group", "years_start": 2019 }
+  ],
+  "notes": "ADAS prevalence increases dramatically after 2018. By 2024, nearly all new vehicles have some form of ADAS camera in the windshield."
+}

@@ -1,0 +1,35 @@
+{
+  "make": "MERCEDES-BENZ",
+  "model": "A-CLASS",
+  "production_start": 2019,
+  "production_end": 2023,
+  "total_years": 5,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2019,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2023,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

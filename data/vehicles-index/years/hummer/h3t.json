@@ -1,0 +1,20 @@
+{
+  "make": "HUMMER",
+  "model": "H3T",
+  "production_start": 2009,
+  "production_end": 2010,
+  "total_years": 2,
+  "body_class": "PICKUP",
+  "years": [
+    {
+      "year": 2009,
+      "body_class": "PICKUP",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "PICKUP",
+      "doors": 4
+    }
+  ]
+}

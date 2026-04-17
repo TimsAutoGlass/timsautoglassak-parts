@@ -1,0 +1,25 @@
+{
+  "make": "POLESTAR",
+  "model": "3",
+  "production_start": 2024,
+  "production_end": 2026,
+  "total_years": 3,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2024,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

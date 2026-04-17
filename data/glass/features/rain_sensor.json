@@ -1,0 +1,22 @@
+{
+  "feature": "rain_sensor",
+  "name": "Rain Sensing Wipers",
+  "description": "Optical sensor mounted on the windshield that detects rain and automatically activates wipers. Requires proper alignment during windshield replacement.",
+  "price_impact": 75,
+  "common_on": [
+    { "make": "SUBARU", "standard_from": 2017, "models": ["OUTBACK", "FORESTER", "ASCENT", "LEGACY"] },
+    { "make": "TOYOTA", "standard_from": 2018, "models": ["CAMRY", "RAV4", "HIGHLANDER"] },
+    { "make": "HONDA", "standard_from": 2018, "models": ["ACCORD", "CR-V", "PILOT"] },
+    { "make": "BMW", "standard_from": 2010, "models": ["3 SERIES", "5 SERIES", "X3", "X5"] },
+    { "make": "MERCEDES-BENZ", "standard_from": 2010, "models": ["C-CLASS", "E-CLASS", "GLE", "GLC"] },
+    { "make": "AUDI", "standard_from": 2012, "models": ["A4", "A6", "Q5", "Q7"] },
+    { "make": "VOLVO", "standard_from": 2010, "models": ["XC90", "XC60", "S60", "V60"] },
+    { "make": "LEXUS", "standard_from": 2015, "models": ["RX", "ES", "NX"] },
+    { "make": "FORD", "standard_from": 2019, "models": ["EXPLORER", "ESCAPE", "EDGE"] },
+    { "make": "CHEVROLET", "standard_from": 2020, "models": ["TAHOE", "SUBURBAN", "TRAVERSE"] },
+    { "make": "HYUNDAI", "standard_from": 2019, "models": ["TUCSON", "SANTA FE", "PALISADE"] },
+    { "make": "KIA", "standard_from": 2019, "models": ["SORENTO", "TELLURIDE", "SPORTAGE"] },
+    { "make": "TESLA", "standard_from": 2017, "models": ["MODEL 3", "MODEL Y", "MODEL S", "MODEL X"] }
+  ],
+  "notes": "Rain sensors are standard on most luxury brands. Becoming standard on mainstream vehicles from 2018+."
+}

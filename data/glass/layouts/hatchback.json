@@ -1,0 +1,19 @@
+{
+  "type": "HATCHBACK",
+  "description": "Compact hatchbacks and 5-door vehicles with integrated liftgate",
+  "typical_panel_count": 6,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door",
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "optional_panels": [
+    "quarter_left",
+    "quarter_right",
+    "sunroof"
+  ],
+  "notes": "Back glass is typically part of the liftgate on hatchbacks."
+}

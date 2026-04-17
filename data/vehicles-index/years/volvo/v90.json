@@ -1,0 +1,40 @@
+{
+  "make": "VOLVO",
+  "model": "V90",
+  "production_start": 2017,
+  "production_end": 2022,
+  "total_years": 6,
+  "body_class": "WAGON",
+  "years": [
+    {
+      "year": 2017,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "WAGON",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "WAGON",
+      "doors": 4
+    }
+  ]
+}

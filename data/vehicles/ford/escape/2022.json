@@ -1,0 +1,73 @@
+{
+  "year": 2022,
+  "make": "FORD",
+  "model": "ESCAPE",
+  "body_class": "SUV",
+  "glass_layout": "suv",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor"
+      ],
+      "price": [
+        300,
+        480
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        260,
+        500
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        210
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        210
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        210
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        210
+      ]
+    }
+  },
+  "confidence": 0.88,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived",
+    "market_data"
+  ]
+}

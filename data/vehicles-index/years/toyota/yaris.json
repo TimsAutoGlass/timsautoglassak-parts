@@ -1,0 +1,80 @@
+{
+  "make": "TOYOTA",
+  "model": "YARIS",
+  "production_start": 2007,
+  "production_end": 2020,
+  "total_years": 14,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "make": "LINCOLN",
+  "total_models": 10,
+  "models": [
+    "AVIATOR",
+    "CONTINENTAL",
+    "CORSAIR",
+    "MKC",
+    "MKT",
+    "MKX",
+    "MKZ",
+    "NAUTILUS",
+    "NAVIGATOR",
+    "TOWN CAR"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "SEDAN",
+  "description": "4-door passenger cars — compact, mid-size, and full-size sedans",
+  "typical_panel_count": 6,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door",
+    "rear_left_door",
+    "rear_right_door"
+  ],
+  "optional_panels": [
+    "sunroof",
+    "quarter_left",
+    "quarter_right"
+  ],
+  "notes": "Most sedans have 6 panels. Some luxury sedans have fixed quarter glass."
+}

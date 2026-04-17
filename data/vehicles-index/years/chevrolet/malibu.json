@@ -1,0 +1,135 @@
+{
+  "make": "CHEVROLET",
+  "model": "MALIBU",
+  "production_start": 2000,
+  "production_end": 2024,
+  "total_years": 25,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2000,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2023,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2024,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

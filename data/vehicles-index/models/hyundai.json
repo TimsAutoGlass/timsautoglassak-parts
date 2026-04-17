@@ -1,0 +1,21 @@
+{
+  "make": "HYUNDAI",
+  "total_models": 15,
+  "models": [
+    "ACCENT",
+    "ELANTRA",
+    "ENTOURAGE",
+    "GENESIS COUPE",
+    "IONIQ 5",
+    "IONIQ 6",
+    "KONA",
+    "PALISADE",
+    "SANTA CRUZ",
+    "SANTA FE",
+    "SONATA",
+    "TIBURON",
+    "TUCSON",
+    "VELOSTER",
+    "VENUE"
+  ]
+}

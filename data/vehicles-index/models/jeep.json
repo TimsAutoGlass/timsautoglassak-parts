@@ -1,0 +1,17 @@
+{
+  "make": "JEEP",
+  "total_models": 11,
+  "models": [
+    "CHEROKEE",
+    "COMMANDER",
+    "COMPASS",
+    "GLADIATOR",
+    "GRAND CHEROKEE",
+    "GRAND WAGONEER",
+    "LIBERTY",
+    "PATRIOT",
+    "RENEGADE",
+    "WAGONEER",
+    "WRANGLER"
+  ]
+}

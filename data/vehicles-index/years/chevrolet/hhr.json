@@ -1,0 +1,40 @@
+{
+  "make": "CHEVROLET",
+  "model": "HHR",
+  "production_start": 2006,
+  "production_end": 2011,
+  "total_years": 6,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2006,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

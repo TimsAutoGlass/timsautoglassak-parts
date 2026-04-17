@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-17",
+  "currency": "USD",
+  "notes": "Base price ranges for glass panels WITHOUT feature modifiers. Prices represent aftermarket glass (not OEM). Range is [low, high].",
+  "panels": {
+    "windshield": [200, 400],
+    "back_glass": [250, 600],
+    "front_left_door": [100, 250],
+    "front_right_door": [100, 250],
+    "rear_left_door": [100, 250],
+    "rear_right_door": [100, 250],
+    "quarter_left": [75, 200],
+    "quarter_right": [75, 200],
+    "rear_slider": [300, 700],
+    "sunroof": [200, 500],
+    "sliding_left_door": [150, 350],
+    "sliding_right_door": [150, 350],
+    "liftgate": [200, 500]
+  },
+  "labor_ranges": {
+    "windshield": [80, 150],
+    "back_glass": [100, 200],
+    "door_glass": [60, 120],
+    "quarter_glass": [80, 160],
+    "rear_slider": [100, 200],
+    "sunroof": [120, 250]
+  }
+}

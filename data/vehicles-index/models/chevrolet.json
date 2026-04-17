@@ -1,0 +1,30 @@
+{
+  "make": "CHEVROLET",
+  "total_models": 24,
+  "models": [
+    "AVALANCHE",
+    "BLAZER",
+    "BOLT EUV",
+    "BOLT EV",
+    "CAMARO",
+    "COBALT",
+    "COLORADO",
+    "CORVETTE",
+    "CRUZE",
+    "EQUINOX",
+    "EXPRESS",
+    "HHR",
+    "IMPALA",
+    "MALIBU",
+    "SILVERADO 1500",
+    "SILVERADO 2500HD",
+    "SILVERADO 3500HD",
+    "SONIC",
+    "SPARK",
+    "SUBURBAN",
+    "TAHOE",
+    "TRAILBLAZER",
+    "TRAVERSE",
+    "TRAX"
+  ]
+}

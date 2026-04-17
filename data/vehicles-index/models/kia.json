@@ -1,0 +1,22 @@
+{
+  "make": "KIA",
+  "total_models": 16,
+  "models": [
+    "CARNIVAL",
+    "EV6",
+    "EV9",
+    "FORTE",
+    "K5",
+    "NIRO",
+    "OPTIMA",
+    "RIO",
+    "SEDONA",
+    "SELTOS",
+    "SORENTO",
+    "SOUL",
+    "SPECTRA",
+    "SPORTAGE",
+    "STINGER",
+    "TELLURIDE"
+  ]
+}

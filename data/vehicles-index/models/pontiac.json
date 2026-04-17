@@ -1,0 +1,18 @@
+{
+  "make": "PONTIAC",
+  "total_models": 12,
+  "models": [
+    "AZTEK",
+    "BONNEVILLE",
+    "FIREBIRD",
+    "G6",
+    "G8",
+    "GRAND AM",
+    "GRAND PRIX",
+    "MONTANA",
+    "SOLSTICE",
+    "SUNFIRE",
+    "TORRENT",
+    "VIBE"
+  ]
+}

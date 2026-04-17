@@ -1,0 +1,50 @@
+{
+  "make": "CHEVROLET",
+  "model": "TRAILBLAZER",
+  "production_start": 2002,
+  "production_end": 2009,
+  "total_years": 8,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2002,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "make": "CHEVROLET",
+  "model": "COBALT",
+  "production_start": 2005,
+  "production_end": 2010,
+  "total_years": 6,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

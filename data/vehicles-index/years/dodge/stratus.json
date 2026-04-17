@@ -1,0 +1,45 @@
+{
+  "make": "DODGE",
+  "model": "STRATUS",
+  "production_start": 2000,
+  "production_end": 2006,
+  "total_years": 7,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2000,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

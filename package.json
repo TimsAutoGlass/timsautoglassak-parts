@@ -1,0 +1,34 @@
+{
+  "name": "timsautoglassak-parts",
+  "version": "1.0.0",
+  "description": "Open auto glass parts intelligence dataset — vehicle index, glass layouts, pricing",
+  "author": "Tim's Auto Glass <info@timsautoglassak.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimsAutoGlass/timsautoglassak-parts.git"
+  },
+  "scripts": {
+    "ingest:makes": "node scripts/ingest/fetch-nhtsa-makes.js",
+    "ingest:models": "node scripts/ingest/fetch-nhtsa-models.js",
+    "ingest:years": "node scripts/ingest/fetch-nhtsa-years.js",
+    "normalize": "node scripts/normalize/normalize-names.js",
+    "validate": "node scripts/validate/validate-schema.js",
+    "generate:top50": "node scripts/generate-top-vehicles.js",
+    "build": "npm run ingest:makes && npm run ingest:models && npm run normalize && npm run validate"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "auto-glass",
+    "vehicle-data",
+    "vin-decoder",
+    "nhtsa",
+    "parts-intelligence",
+    "cloudflare-workers"
+  ]
+}

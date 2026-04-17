@@ -1,0 +1,16 @@
+{
+  "make": "ACURA",
+  "total_models": 10,
+  "models": [
+    "ILX",
+    "INTEGRA",
+    "MDX",
+    "NSX",
+    "RDX",
+    "RSX",
+    "TL",
+    "TLX",
+    "TSX",
+    "ZDX"
+  ]
+}

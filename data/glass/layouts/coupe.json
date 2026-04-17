@@ -1,0 +1,17 @@
+{
+  "type": "COUPE",
+  "description": "2-door vehicles including sports cars and performance vehicles",
+  "typical_panel_count": 4,
+  "panels": [
+    "windshield",
+    "back_glass",
+    "front_left_door",
+    "front_right_door"
+  ],
+  "optional_panels": [
+    "quarter_left",
+    "quarter_right",
+    "sunroof"
+  ],
+  "notes": "Some coupes have small fixed quarter glass behind the doors."
+}

@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-04-17",
+  "region": "Alaska",
+  "notes": "Alaska-specific pricing adjustments due to shipping costs, limited aftermarket availability, and cold-climate demand patterns.",
+  "adjustments": {
+    "shipping_surcharge": {
+      "amount": 75,
+      "description": "Average additional shipping cost to Alaska for glass parts",
+      "applies_to": "all_panels"
+    },
+    "oem_availability_markup": {
+      "percentage": 15,
+      "description": "OEM parts are less available in Alaska, higher markup when sourced",
+      "applies_to": "oem_only"
+    },
+    "aftermarket_availability": {
+      "common_vehicles": {
+        "markup_percentage": 0,
+        "notes": "Top 50 vehicles — aftermarket glass typically in stock in Anchorage"
+      },
+      "uncommon_vehicles": {
+        "markup_percentage": 10,
+        "wait_days": [3, 7],
+        "notes": "Less common vehicles may require ordering from lower 48"
+      },
+      "rare_vehicles": {
+        "markup_percentage": 25,
+        "wait_days": [7, 21],
+        "notes": "Luxury, exotic, or discontinued vehicles — special order required"
+      }
+    },
+    "cold_weather_demand": {
+      "peak_months": ["October", "November", "December", "January", "February", "March"],
+      "demand_multiplier": 1.15,
+      "notes": "Windshield replacements spike during freeze/thaw cycles and gravel road season"
+    },
+    "mobile_service_upcharge": {
+      "amount": 0,
+      "notes": "Tim's Auto Glass does NOT charge extra for mobile service on fleet/commercial accounts. Residential is in-shop only."
+    }
+  }
+}
