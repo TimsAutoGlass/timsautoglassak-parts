@@ -10,8 +10,8 @@ function App() {
     <Router>
       <header className="app-header">
         <a href="/" className="logo">
-          <Database size={24} color="#3b82f6" />
-          Tim's Auto Glass — Parts Intelligence
+          <img src="/logo.svg" alt="Tim's Auto Glass" style={{ height: '28px', marginRight: '8px' }} />
+          Parts Intelligence
         </a>
       </header>
       <main>
