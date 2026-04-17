@@ -1,0 +1,17 @@
+{
+  "make": "BUICK",
+  "total_models": 11,
+  "models": [
+    "CENTURY",
+    "ENCLAVE",
+    "ENCORE",
+    "ENCORE GX",
+    "ENVISION",
+    "LACROSSE",
+    "LESABRE",
+    "LUCERNE",
+    "REGAL",
+    "RENDEZVOUS",
+    "VERANO"
+  ]
+}

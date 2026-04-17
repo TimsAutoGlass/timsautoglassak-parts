@@ -1,0 +1,35 @@
+{
+  "make": "SATURN",
+  "model": "ION",
+  "production_start": 2003,
+  "production_end": 2007,
+  "total_years": 5,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2003,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

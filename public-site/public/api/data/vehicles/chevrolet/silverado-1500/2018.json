@@ -1,0 +1,69 @@
+{
+  "year": 2018,
+  "make": "CHEVROLET",
+  "model": "SILVERADO 1500",
+  "body_class": "PICKUP",
+  "glass_layout": "pickup",
+  "doors": 4,
+  "features": {
+    "adas": false,
+    "rain_sensor": false,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [],
+      "price": [
+        220,
+        380
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        280,
+        600
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    }
+  },
+  "confidence": 0.85,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived"
+  ]
+}

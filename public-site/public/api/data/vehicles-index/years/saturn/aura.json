@@ -1,0 +1,25 @@
+{
+  "make": "SATURN",
+  "model": "AURA",
+  "production_start": 2007,
+  "production_end": 2009,
+  "total_years": 3,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

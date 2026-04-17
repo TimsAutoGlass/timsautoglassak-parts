@@ -1,0 +1,15 @@
+{
+  "make": "JAGUAR",
+  "total_models": 9,
+  "models": [
+    "E-PACE",
+    "F-PACE",
+    "F-TYPE",
+    "I-PACE",
+    "S-TYPE",
+    "X-TYPE",
+    "XE",
+    "XF",
+    "XJ"
+  ]
+}

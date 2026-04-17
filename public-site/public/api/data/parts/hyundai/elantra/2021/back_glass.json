@@ -1,0 +1,27 @@
+{
+  "vehicle": {
+    "make": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": 2021
+  },
+  "glass_type": "back_glass",
+  "parts": [
+    {
+      "part_number": "DB09216GTY",
+      "type": "aftermarket",
+      "features": [],
+      "source": "rockauto",
+      "last_seen": "2026-04-17",
+      "confidence": 0.85
+    },
+    {
+      "part_number": "DB09216",
+      "type": "UNKNOWN",
+      "features": [],
+      "source": "ebay",
+      "last_seen": "2026-03-18",
+      "confidence": 0.6
+    }
+  ],
+  "notes": []
+}

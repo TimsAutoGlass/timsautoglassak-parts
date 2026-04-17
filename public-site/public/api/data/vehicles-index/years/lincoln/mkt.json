@@ -1,0 +1,60 @@
+{
+  "make": "LINCOLN",
+  "model": "MKT",
+  "production_start": 2010,
+  "production_end": 2019,
+  "total_years": 10,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "make": "JAGUAR",
+  "model": "X-TYPE",
+  "production_start": 2002,
+  "production_end": 2008,
+  "total_years": 7,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2002,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

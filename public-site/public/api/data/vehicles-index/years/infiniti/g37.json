@@ -1,0 +1,40 @@
+{
+  "make": "INFINITI",
+  "model": "G37",
+  "production_start": 2008,
+  "production_end": 2013,
+  "total_years": 6,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

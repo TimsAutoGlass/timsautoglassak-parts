@@ -1,0 +1,71 @@
+{
+  "year": 2019,
+  "make": "RAM",
+  "model": "1500",
+  "body_class": "PICKUP",
+  "glass_layout": "pickup",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": false,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas"
+      ],
+      "price": [
+        310,
+        500
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        300,
+        650
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        230
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        230
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        230
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        110,
+        230
+      ]
+    }
+  },
+  "confidence": 0.85,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "make": "SCION",
+  "total_models": 6,
+  "models": [
+    "FR-S",
+    "IA",
+    "IM",
+    "TC",
+    "XB",
+    "XD"
+  ]
+}

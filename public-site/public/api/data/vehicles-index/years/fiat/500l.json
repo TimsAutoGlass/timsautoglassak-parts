@@ -1,0 +1,45 @@
+{
+  "make": "FIAT",
+  "model": "500L",
+  "production_start": 2014,
+  "production_end": 2020,
+  "total_years": 7,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2014,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

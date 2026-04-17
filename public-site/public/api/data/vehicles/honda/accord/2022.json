@@ -1,0 +1,73 @@
+{
+  "year": 2022,
+  "make": "HONDA",
+  "model": "ACCORD",
+  "body_class": "SEDAN",
+  "glass_layout": "sedan",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor"
+      ],
+      "price": [
+        290,
+        460
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        250,
+        480
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        200
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        200
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        200
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        200
+      ]
+    }
+  },
+  "confidence": 0.9,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived",
+    "market_data"
+  ]
+}

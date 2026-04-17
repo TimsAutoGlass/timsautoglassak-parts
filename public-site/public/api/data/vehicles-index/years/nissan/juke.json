@@ -1,0 +1,45 @@
+{
+  "make": "NISSAN",
+  "model": "JUKE",
+  "production_start": 2011,
+  "production_end": 2017,
+  "total_years": 7,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

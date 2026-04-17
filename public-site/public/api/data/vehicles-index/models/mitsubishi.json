@@ -1,0 +1,15 @@
+{
+  "make": "MITSUBISHI",
+  "total_models": 9,
+  "models": [
+    "ECLIPSE",
+    "ECLIPSE CROSS",
+    "ENDEAVOR",
+    "GALANT",
+    "LANCER",
+    "MIRAGE",
+    "MONTERO",
+    "OUTLANDER",
+    "OUTLANDER SPORT"
+  ]
+}

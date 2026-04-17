@@ -1,0 +1,30 @@
+{
+  "make": "MINI",
+  "model": "PACEMAN",
+  "production_start": 2013,
+  "production_end": 2016,
+  "total_years": 4,
+  "body_class": "COUPE",
+  "years": [
+    {
+      "year": 2013,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2014,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2015,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2016,
+      "body_class": "COUPE",
+      "doors": 2
+    }
+  ]
+}

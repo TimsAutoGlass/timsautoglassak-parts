@@ -1,0 +1,45 @@
+{
+  "make": "INFINITI",
+  "model": "Q60",
+  "production_start": 2017,
+  "production_end": 2023,
+  "total_years": 7,
+  "body_class": "COUPE",
+  "years": [
+    {
+      "year": 2017,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2018,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2019,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2020,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2021,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2022,
+      "body_class": "COUPE",
+      "doors": 2
+    },
+    {
+      "year": 2023,
+      "body_class": "COUPE",
+      "doors": 2
+    }
+  ]
+}

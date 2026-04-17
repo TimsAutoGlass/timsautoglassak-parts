@@ -1,0 +1,71 @@
+{
+  "make": "DODGE",
+  "model": "NEON",
+  "production_start": 1994,
+  "production_end": 2005,
+  "total_years": 12,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 1994,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1995,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1996,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1997,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1998,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1999,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2000,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    }
+  ],
+  "last_updated": "2026-04-17"
+}

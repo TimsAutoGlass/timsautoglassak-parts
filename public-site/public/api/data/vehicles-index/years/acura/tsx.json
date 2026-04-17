@@ -1,0 +1,65 @@
+{
+  "make": "ACURA",
+  "model": "TSX",
+  "production_start": 2004,
+  "production_end": 2014,
+  "total_years": 11,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2004,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

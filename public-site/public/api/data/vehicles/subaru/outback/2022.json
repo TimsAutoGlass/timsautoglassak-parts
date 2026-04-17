@@ -1,0 +1,73 @@
+{
+  "year": 2022,
+  "make": "SUBARU",
+  "model": "OUTBACK",
+  "body_class": "WAGON",
+  "glass_layout": "suv",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": false,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor"
+      ],
+      "price": [
+        350,
+        560
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        280,
+        550
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        100,
+        220
+      ]
+    }
+  },
+  "confidence": 0.92,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived",
+    "market_data"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "make": "PONTIAC",
+  "model": "SOLSTICE",
+  "production_start": 2006,
+  "production_end": 2010,
+  "total_years": 5,
+  "body_class": "CONVERTIBLE",
+  "years": [
+    {
+      "year": 2006,
+      "body_class": "CONVERTIBLE",
+      "doors": 2
+    },
+    {
+      "year": 2007,
+      "body_class": "CONVERTIBLE",
+      "doors": 2
+    },
+    {
+      "year": 2008,
+      "body_class": "CONVERTIBLE",
+      "doors": 2
+    },
+    {
+      "year": 2009,
+      "body_class": "CONVERTIBLE",
+      "doors": 2
+    },
+    {
+      "year": 2010,
+      "body_class": "CONVERTIBLE",
+      "doors": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "make": "HYUNDAI",
+  "model": "ENTOURAGE",
+  "production_start": 2007,
+  "production_end": 2009,
+  "total_years": 3,
+  "body_class": "VAN",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "VAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "VAN",
+      "doors": 4
+    }
+  ]
+}

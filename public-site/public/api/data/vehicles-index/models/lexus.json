@@ -1,0 +1,20 @@
+{
+  "make": "LEXUS",
+  "total_models": 14,
+  "models": [
+    "CT",
+    "ES",
+    "GS",
+    "GX",
+    "IS",
+    "LC",
+    "LS",
+    "LX",
+    "NX",
+    "RC",
+    "RX",
+    "RZ",
+    "TX",
+    "UX"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "make": "MAZDA",
+  "total_models": 11,
+  "models": [
+    "CX-30",
+    "CX-5",
+    "CX-50",
+    "CX-70",
+    "CX-9",
+    "CX-90",
+    "MAZDA3",
+    "MAZDA6",
+    "MX-30",
+    "MX-5 MIATA",
+    "TRIBUTE"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "make": "LUCID",
+  "total_models": 2,
+  "models": [
+    "AIR",
+    "GRAVITY"
+  ]
+}

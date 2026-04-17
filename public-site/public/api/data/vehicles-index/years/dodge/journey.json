@@ -1,0 +1,70 @@
+{
+  "make": "DODGE",
+  "model": "JOURNEY",
+  "production_start": 2009,
+  "production_end": 2020,
+  "total_years": 12,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "make": "AUDI",
+  "model": "A3",
+  "production_start": 2006,
+  "production_end": 2026,
+  "total_years": 21,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2023,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2024,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

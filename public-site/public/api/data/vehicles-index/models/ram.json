@@ -1,0 +1,11 @@
+{
+  "make": "RAM",
+  "total_models": 5,
+  "models": [
+    "1500",
+    "2500",
+    "3500",
+    "PROMASTER",
+    "PROMASTER CITY"
+  ]
+}

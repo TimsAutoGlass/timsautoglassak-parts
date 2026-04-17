@@ -1,0 +1,22 @@
+{
+  "make": "AUDI",
+  "total_models": 16,
+  "models": [
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "E-TRON",
+    "Q3",
+    "Q4 E-TRON",
+    "Q5",
+    "Q7",
+    "Q8",
+    "R8",
+    "RS5",
+    "S4",
+    "TT"
+  ]
+}

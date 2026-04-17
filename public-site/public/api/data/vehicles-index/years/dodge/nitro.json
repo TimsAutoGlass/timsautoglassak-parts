@@ -1,0 +1,35 @@
+{
+  "make": "DODGE",
+  "model": "NITRO",
+  "production_start": 2007,
+  "production_end": 2011,
+  "total_years": 5,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

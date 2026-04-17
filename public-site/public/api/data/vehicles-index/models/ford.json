@@ -1,0 +1,31 @@
+{
+  "make": "FORD",
+  "total_models": 25,
+  "models": [
+    "BRONCO",
+    "BRONCO SPORT",
+    "CROWN VICTORIA",
+    "E-SERIES",
+    "ECOSPORT",
+    "EDGE",
+    "ESCAPE",
+    "EXCURSION",
+    "EXPEDITION",
+    "EXPLORER",
+    "F-150",
+    "F-250",
+    "F-350",
+    "FIESTA",
+    "FLEX",
+    "FOCUS",
+    "FUSION",
+    "LIGHTNING",
+    "MAVERICK",
+    "MUSTANG",
+    "MUSTANG MACH-E",
+    "RANGER",
+    "TAURUS",
+    "TRANSIT",
+    "TRANSIT CONNECT"
+  ]
+}

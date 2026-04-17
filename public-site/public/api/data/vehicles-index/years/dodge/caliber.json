@@ -1,0 +1,40 @@
+{
+  "make": "DODGE",
+  "model": "CALIBER",
+  "production_start": 2007,
+  "production_end": 2012,
+  "total_years": 6,
+  "body_class": "HATCHBACK",
+  "years": [
+    {
+      "year": 2007,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "HATCHBACK",
+      "doors": 4
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "make": "GMC",
+  "total_models": 11,
+  "models": [
+    "ACADIA",
+    "CANYON",
+    "ENVOY",
+    "HUMMER EV",
+    "SAVANA",
+    "SIERRA 1500",
+    "SIERRA 2500HD",
+    "SIERRA 3500HD",
+    "TERRAIN",
+    "YUKON",
+    "YUKON XL"
+  ]
+}

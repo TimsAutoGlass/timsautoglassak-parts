@@ -1,0 +1,28 @@
+{
+  "make": "TOYOTA",
+  "total_models": 22,
+  "models": [
+    "4RUNNER",
+    "AVALON",
+    "BZ4X",
+    "C-HR",
+    "CAMRY",
+    "COROLLA",
+    "CROWN",
+    "FJ CRUISER",
+    "GR86",
+    "GRAND HIGHLANDER",
+    "HIGHLANDER",
+    "LAND CRUISER",
+    "MATRIX",
+    "PRIUS",
+    "RAV4",
+    "SEQUOIA",
+    "SIENNA",
+    "SUPRA",
+    "TACOMA",
+    "TUNDRA",
+    "VENZA",
+    "YARIS"
+  ]
+}

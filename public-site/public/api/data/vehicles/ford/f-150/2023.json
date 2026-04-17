@@ -1,0 +1,74 @@
+{
+  "year": 2023,
+  "make": "FORD",
+  "model": "F-150",
+  "body_class": "PICKUP",
+  "glass_layout": "pickup",
+  "doors": 4,
+  "features": {
+    "adas": true,
+    "rain_sensor": true,
+    "heated": true,
+    "acoustic": false
+  },
+  "glass": {
+    "windshield": {
+      "type": "laminated",
+      "features": [
+        "adas",
+        "rain_sensor",
+        "heated"
+      ],
+      "price": [
+        400,
+        650
+      ]
+    },
+    "back_glass": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        350,
+        700
+      ]
+    },
+    "front_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "front_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "rear_left_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    },
+    "rear_right_door": {
+      "type": "tempered",
+      "features": [],
+      "price": [
+        130,
+        260
+      ]
+    }
+  },
+  "confidence": 0.92,
+  "last_updated": "2026-04-17",
+  "sources": [
+    "derived",
+    "market_data"
+  ]
+}

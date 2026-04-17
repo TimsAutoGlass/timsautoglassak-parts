@@ -1,0 +1,90 @@
+{
+  "make": "NISSAN",
+  "model": "XTERRA",
+  "production_start": 2000,
+  "production_end": 2015,
+  "total_years": 16,
+  "body_class": "SUV",
+  "years": [
+    {
+      "year": 2000,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2006,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SUV",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SUV",
+      "doors": 4
+    }
+  ]
+}

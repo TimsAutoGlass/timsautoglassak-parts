@@ -1,0 +1,18 @@
+{
+  "make": "SUBARU",
+  "total_models": 12,
+  "models": [
+    "ASCENT",
+    "BAJA",
+    "BRZ",
+    "CROSSTREK",
+    "FORESTER",
+    "IMPREZA",
+    "LEGACY",
+    "OUTBACK",
+    "SOLTERRA",
+    "TRIBECA",
+    "WRX",
+    "XV CROSSTREK"
+  ]
+}

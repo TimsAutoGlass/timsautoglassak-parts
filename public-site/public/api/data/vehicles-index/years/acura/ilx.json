@@ -1,0 +1,60 @@
+{
+  "make": "ACURA",
+  "model": "ILX",
+  "production_start": 2013,
+  "production_end": 2022,
+  "total_years": 10,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2021,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2022,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

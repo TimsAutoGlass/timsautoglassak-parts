@@ -1,0 +1,14 @@
+{
+  "make": "PORSCHE",
+  "total_models": 8,
+  "models": [
+    "718",
+    "911",
+    "BOXSTER",
+    "CAYENNE",
+    "CAYMAN",
+    "MACAN",
+    "PANAMERA",
+    "TAYCAN"
+  ]
+}

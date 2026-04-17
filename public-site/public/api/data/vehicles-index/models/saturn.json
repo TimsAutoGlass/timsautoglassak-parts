@@ -1,0 +1,13 @@
+{
+  "make": "SATURN",
+  "total_models": 7,
+  "models": [
+    "AURA",
+    "ION",
+    "L-SERIES",
+    "OUTLOOK",
+    "S-SERIES",
+    "SKY",
+    "VUE"
+  ]
+}

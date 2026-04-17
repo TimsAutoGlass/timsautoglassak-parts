@@ -1,0 +1,9 @@
+{
+  "make": "RIVIAN",
+  "total_models": 3,
+  "models": [
+    "R1S",
+    "R1T",
+    "R2"
+  ]
+}

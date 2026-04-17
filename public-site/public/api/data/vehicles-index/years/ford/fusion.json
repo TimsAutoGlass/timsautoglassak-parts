@@ -1,0 +1,85 @@
+{
+  "make": "FORD",
+  "model": "FUSION",
+  "production_start": 2006,
+  "production_end": 2020,
+  "total_years": 15,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2006,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2007,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2008,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2009,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2010,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2011,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2012,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2013,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2014,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2015,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2016,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2017,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2018,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2019,
+      "body_class": "SEDAN",
+      "doors": 4
+    },
+    {
+      "year": 2020,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}

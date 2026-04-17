@@ -1,0 +1,25 @@
+{
+  "make": "TESLA",
+  "model": "CYBERTRUCK",
+  "production_start": 2024,
+  "production_end": 2026,
+  "total_years": 3,
+  "body_class": "PICKUP",
+  "years": [
+    {
+      "year": 2024,
+      "body_class": "PICKUP",
+      "doors": 4
+    },
+    {
+      "year": 2025,
+      "body_class": "PICKUP",
+      "doors": 4
+    },
+    {
+      "year": 2026,
+      "body_class": "PICKUP",
+      "doors": 4
+    }
+  ]
+}

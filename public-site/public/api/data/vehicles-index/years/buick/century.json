@@ -1,0 +1,136 @@
+{
+  "make": "BUICK",
+  "model": "CENTURY",
+  "production_start": 1981,
+  "production_end": 2005,
+  "total_years": 25,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 1981,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1982,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1983,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1984,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1985,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1986,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1987,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1988,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1989,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1990,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1991,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1992,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1993,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1994,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1995,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1996,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1997,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1998,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1999,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2000,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2002,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2003,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2004,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2005,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    }
+  ],
+  "last_updated": "2026-04-17"
+}

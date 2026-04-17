@@ -1,0 +1,15 @@
+{
+  "make": "SCION",
+  "model": "IA",
+  "production_start": 2016,
+  "production_end": 2016,
+  "total_years": 1,
+  "body_class": "SEDAN",
+  "years": [
+    {
+      "year": 2016,
+      "body_class": "SEDAN",
+      "doors": 4
+    }
+  ]
+}
