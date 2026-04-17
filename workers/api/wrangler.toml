@@ -1,0 +1,13 @@
+name = "tims-parts-api"
+main = "src/index.js"
+compatibility_date = "2024-04-17"
+
+# This R2 bucket will hold your JSON data (synced from this repo)
+[[r2_buckets]]
+binding = "PARTS_BUCKET"
+bucket_name = "timsautoglass-parts"
+preview_bucket_name = "timsautoglass-parts-preview"
+
+# Environment Variables
+[vars]
+ENVIRONMENT = "production"

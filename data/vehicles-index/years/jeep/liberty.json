@@ -1,65 +1,111 @@
 {
   "make": "JEEP",
   "model": "LIBERTY",
-  "production_start": 2002,
+  "production_start": 1993,
   "production_end": 2012,
-  "total_years": 11,
+  "total_years": 20,
   "body_class": "SUV",
   "years": [
     {
+      "year": 1993,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1994,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1995,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1996,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1997,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1998,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 1999,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2000,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
+      "year": 2001,
+      "body_class": "UNKNOWN",
+      "doors": 4
+    },
+    {
       "year": 2002,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2003,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2004,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2005,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2006,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2007,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2008,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2009,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2010,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2011,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     },
     {
       "year": 2012,
-      "body_class": "SUV",
+      "body_class": "UNKNOWN",
       "doors": 4
     }
-  ]
+  ],
+  "last_updated": "2026-04-17"
 }

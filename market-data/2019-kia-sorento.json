@@ -1,0 +1,19 @@
+{
+  "vehicle": "2019 Kia Sorento",
+  "windshield": {
+    "avg_price": 410,
+    "sample_size": 27,
+    "sources": [
+      {
+        "vendor": "ebay",
+        "price_history": [380, 420, 395],
+        "last_scraped": "2026-04-17"
+      },
+      {
+        "vendor": "installer_feedback",
+        "price_history": [510, 490, 520],
+        "last_scraped": "2026-04-16"
+      }
+    ]
+  }
+}

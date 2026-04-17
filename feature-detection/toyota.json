@@ -1,0 +1,15 @@
+{
+  "make": "TOYOTA",
+  "system_name": "Toyota Safety Sense",
+  "year_min": 2017,
+  "rules": {
+    "adas": true
+  },
+  "trim_exceptions": [
+    {
+      "model": "TACOMA",
+      "year_min": 2018,
+      "adas": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "make": "KIA",
+  "year_min": 2018,
+  "rules": {
+    "adas": true,
+    "rain_sensor": true
+  },
+  "exceptions": [
+    {
+      "model": "RIO",
+      "year_max": 2020,
+      "adas": false
+    }
+  ]
+}
