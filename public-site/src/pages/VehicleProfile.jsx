@@ -1,6 +1,17 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ShieldCheck, Info, Package, AlertTriangle } from 'lucide-react';
+import { ShieldCheck, Info, Package, AlertTriangle, ExternalLink } from 'lucide-react';
+
+const getSourceUrl = (source, partNumber) => {
+  const p = encodeURIComponent(partNumber);
+  switch(source.toLowerCase()) {
+    case 'ebay': return `https://www.ebay.com/sch/i.html?_nkw=${p}`;
+    case 'rockauto': return `https://www.rockauto.com/en/partsearch/?partnum=${p}`;
+    case 'partsgeek': return `https://www.partsgeek.com/keyword/?searchkeyword=${p}`;
+    case 'safelite': return `https://www.safelite.com/`;
+    default: return `https://www.google.com/search?q=${p}+auto+glass`;
+  }
+};
 
 export default function VehicleProfile() {
   const { make, model, year } = useParams();
@@ -91,7 +102,16 @@ export default function VehicleProfile() {
                     </div>
                     
                     <div style={{ textAlign: 'right' }}>
-                      <div style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>Source: <span style={{ textTransform: 'capitalize' }}>{p.source}</span></div>
+                      <div style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>
+                        <a 
+                          href={getSourceUrl(p.source, p.part_number)} 
+                          target="_blank" 
+                          rel="noreferrer"
+                          style={{ color: 'var(--primary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px', justifyContent: 'flex-end' }}
+                        >
+                          Check {p.source.charAt(0).toUpperCase() + p.source.slice(1)} Pricing <ExternalLink size={12} />
+                        </a>
+                      </div>
                       <div style={{ fontSize: '0.875rem', display: 'flex', alignItems: 'center', gap: '4px', justifyContent: 'flex-end', marginTop: '4px' }}>
                         <Info size={14} color={p.confidence > 0.8 ? '#10b981' : '#fbbf24'} />
                         <span style={{ color: p.confidence > 0.8 ? '#10b981' : '#fbbf24' }}>

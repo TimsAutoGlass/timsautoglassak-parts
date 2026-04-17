@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Package, ShieldCheck, CheckCircle2, Factory } from 'lucide-react';
+import { Package, ShieldCheck, CheckCircle2, Factory, ExternalLink, Search } from 'lucide-react';
 
 export default function PartProfile() {
   const { partNumber } = useParams();
@@ -81,6 +81,21 @@ export default function PartProfile() {
                 ))}
               </div>
             )}
+          </div>
+
+          <div style={{ marginTop: '2rem' }}>
+            <h3 style={{ fontSize: '0.875rem', color: 'var(--text-muted)', marginBottom: '0.5rem', textTransform: 'uppercase' }}>Market Pricing Tools</h3>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              <a href={`https://www.ebay.com/sch/i.html?_nkw=${part.part_number}`} target="_blank" rel="noreferrer" className="tag aftermarket" style={{ padding: '0.75rem', justifyContent: 'center', color: 'var(--text-main)', textDecoration: 'none' }}>
+                <ExternalLink size={14} style={{ marginRight: '6px' }} /> Verify on eBay Motors
+              </a>
+              <a href={`https://www.rockauto.com/en/partsearch/?partnum=${part.part_number}`} target="_blank" rel="noreferrer" className="tag blue" style={{ padding: '0.75rem', justifyContent: 'center', color: 'var(--text-main)', textDecoration: 'none' }}>
+                <ExternalLink size={14} style={{ marginRight: '6px' }} /> Check RockAuto Catalog
+              </a>
+              <a href={`https://www.google.com/search?q=${part.part_number}+auto+glass`} target="_blank" rel="noreferrer" style={{ padding: '0.75rem', border: '1px solid var(--border)', borderRadius: '4px', textAlign: 'center', color: 'var(--text-muted)', textDecoration: 'none', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <Search size={14} style={{ marginRight: '6px' }} /> General Web Search
+              </a>
+            </div>
           </div>
         </div>
 
