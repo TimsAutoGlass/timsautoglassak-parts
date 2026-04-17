@@ -1,14 +1,33 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ShieldCheck, Info, Package, AlertTriangle, ExternalLink } from 'lucide-react';
+export const getOemCatalogUrl = (make, partNumber) => {
+  const p = encodeURIComponent(partNumber);
+  const m = make?.toUpperCase() || 'UNKNOWN';
+  
+  if (['CHEVROLET', 'GMC', 'CADILLAC', 'BUICK'].includes(m)) return `https://parts.chevrolet.com/search?searchTerm=${p}`;
+  if (['FORD', 'LINCOLN'].includes(m)) return `https://parts.ford.com/shop/en/us/search?searchQuery=${p}`;
+  if (['TOYOTA', 'LEXUS'].includes(m)) return `https://autoparts.toyota.com/search?search_query=${p}`;
+  if (['HONDA', 'ACURA'].includes(m)) return `https://www.hondapartsnow.com/search?search_query=${p}`;
+  if (['KIA'].includes(m)) return `https://www.kiapartsnow.com/search?search_query=${p}`;
+  if (['HYUNDAI', 'GENESIS'].includes(m)) return `https://www.hyundaioemparts.com/search?search_query=${p}`;
+  if (['SUBARU'].includes(m)) return `https://parts.subaru.com/productSearch.aspx?searchTerm=${p}`;
+  if (['NISSAN', 'INFINITI'].includes(m)) return `https://parts.nissanusa.com/productSearch.aspx?searchTerm=${p}`;
+  if (['JEEP', 'RAM', 'DODGE', 'CHRYSLER'].includes(m)) return `https://store.mopar.com/search?search_query=${p}`;
+  if (['VOLKSWAGEN', 'AUDI'].includes(m)) return `https://parts.vw.com/productSearch.aspx?searchTerm=${p}`;
+  if (['BMW', 'MINI'].includes(m)) return `https://www.getbmwparts.com/search?search_query=${p}`;
+  
+  return `https://www.google.com/search?q=${p}+${make}+OEM+Parts`;
+};
 
-const getSourceUrl = (source, partNumber) => {
+const getSourceUrl = (source, partNumber, make) => {
   const p = encodeURIComponent(partNumber);
   switch(source.toLowerCase()) {
     case 'ebay': return `https://www.ebay.com/sch/i.html?_nkw=${p}`;
     case 'rockauto': return `https://www.rockauto.com/en/partsearch/?partnum=${p}`;
     case 'partsgeek': return `https://www.partsgeek.com/keyword/?searchkeyword=${p}`;
     case 'safelite': return `https://www.safelite.com/`;
+    case 'dealer': return getOemCatalogUrl(make, partNumber);
+    case 'oem': return getOemCatalogUrl(make, partNumber);
     default: return `https://www.google.com/search?q=${p}+auto+glass`;
   }
 };
@@ -104,7 +123,7 @@ export default function VehicleProfile() {
                     <div style={{ textAlign: 'right' }}>
                       <div style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>
                         <a 
-                          href={getSourceUrl(p.source, p.part_number)} 
+                          href={getSourceUrl(p.source, p.part_number, make)} 
                           target="_blank" 
                           rel="noreferrer"
                           style={{ color: 'var(--primary)', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '4px', justifyContent: 'flex-end' }}

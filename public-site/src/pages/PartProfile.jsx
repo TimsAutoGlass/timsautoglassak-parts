@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Package, ShieldCheck, CheckCircle2, Factory, ExternalLink, Search } from 'lucide-react';
+import { getOemCatalogUrl } from './VehicleProfile';
 
 export default function PartProfile() {
   const { partNumber } = useParams();
@@ -86,6 +87,9 @@ export default function PartProfile() {
           <div style={{ marginTop: '2rem' }}>
             <h3 style={{ fontSize: '0.875rem', color: 'var(--text-muted)', marginBottom: '0.5rem', textTransform: 'uppercase' }}>Market Pricing Tools</h3>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
+              <a href={getOemCatalogUrl(part.fitment?.[0]?.make, part.part_number)} target="_blank" rel="noreferrer" className="tag oem" style={{ padding: '0.75rem', justifyContent: 'center', color: 'var(--text-main)', textDecoration: 'none' }}>
+                <ExternalLink size={14} style={{ marginRight: '6px' }} /> Official OEM Catalog
+              </a>
               <a href={`https://www.ebay.com/sch/i.html?_nkw=${part.part_number}`} target="_blank" rel="noreferrer" className="tag aftermarket" style={{ padding: '0.75rem', justifyContent: 'center', color: 'var(--text-main)', textDecoration: 'none' }}>
                 <ExternalLink size={14} style={{ marginRight: '6px' }} /> Verify on eBay Motors
               </a>
