@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Search } from 'lucide-react';
+import { Search, ShieldCheck, DatabaseZap, CheckCircle2 } from 'lucide-react';
 
 export default function Home() {
   const [vehicles, setVehicles] = useState([]);
@@ -54,9 +54,25 @@ export default function Home() {
           onChange={(e) => setSearch(e.target.value)}
           style={{ paddingLeft: '3.5rem' }}
         />
+        
+        {/* Trust Badges */}
+        <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', marginTop: '2rem', animation: 'fadeUp 0.5s 0.2s backwards' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-muted)', fontSize: '0.875rem' }}>
+            <DatabaseZap size={18} color="var(--primary)" />
+            <span>NHTSA Baseline Auto-Sync</span>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-muted)', fontSize: '0.875rem' }}>
+            <ShieldCheck size={18} color="var(--accent)" />
+            <span>OEM & OEE Interchange Maps</span>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: 'var(--text-muted)', fontSize: '0.875rem' }}>
+            <CheckCircle2 size={18} color="#fbbf24" />
+            <span>24/7 Verified Integrity</span>
+          </div>
+        </div>
       </div>
 
-      <div className="animate-in delay-2">
+      <div className="animate-in delay-2" style={{ marginTop: '3rem' }}>
         <h2 style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', borderBottom: '1px solid var(--border)', paddingBottom: '0.5rem' }}>
           <span>Trending Lookups</span>
           <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)', fontWeight: 400 }}>{makes.length} Supported Makes</span>
