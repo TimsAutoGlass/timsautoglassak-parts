@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', '..', 'data');
-const SCHEMA_DIR = path.join(__dirname, '..', '..', 'schema');
+const SCHEMA_DIR = path.join(__dirname, '..', '..', 'schemas');
 
 // Simple JSON structure validation (no ajv dependency required for basic checks)
 function validateVehicleFile(data, filePath) {
@@ -82,6 +82,24 @@ function validateGlassLayout(data, filePath) {
   const rel = path.relative(DATA_DIR, filePath);
   if (!data.type) errors.push(`${rel}: missing "type"`);
   if (!data.panels || !Array.isArray(data.panels)) errors.push(`${rel}: missing "panels" array`);
+  return errors;
+}
+
+function validatePartsFile(data, filePath) {
+  const errors = [];
+  const rel = path.relative(DATA_DIR, filePath);
+  if (!data.vehicle || !data.vehicle.make || !data.vehicle.model || !data.vehicle.year) {
+    errors.push(`${rel}: missing vehicle make/model/year`);
+  }
+  if (!data.glass_type) errors.push(`${rel}: missing glass_type`);
+  if (!data.parts || !Array.isArray(data.parts)) errors.push(`${rel}: missing parts array`);
+  if (data.parts) {
+    for (const part of data.parts) {
+      if (!part.part_number) errors.push(`${rel}: part missing part_number`);
+      if (!part.type) errors.push(`${rel}: part missing type`);
+      if (!part.source) errors.push(`${rel}: part missing source`);
+    }
+  }
   return errors;
 }
 
@@ -173,8 +191,26 @@ function main() {
   });
   console.log(`  ✅ Vehicle profiles: ${vehicleCount}`);
 
+  // Validate parts
+  const partsDir = path.join(DATA_DIR, 'parts');
+  let partCount = 0;
+  walkDir(partsDir, (filePath) => {
+    totalFiles++;
+    partCount++;
+    try {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        const errors = validatePartsFile(data, filePath);
+        allErrors.push(...errors);
+        totalErrors += errors.length;
+    } catch (e) {
+        allErrors.push(`${path.relative(DATA_DIR, filePath)}: invalid JSON`);
+        totalErrors++;
+    }
+  });
+  console.log(`  ✅ Part files: ${partCount}`);
+
   // Validate glass layouts
-  const layoutsDir = path.join(DATA_DIR, 'glass', 'layouts');
+  const layoutsDir = path.join(__dirname, '..', '..', 'glass-rules');
   let layoutCount = 0;
   walkDir(layoutsDir, (filePath) => {
     totalFiles++;

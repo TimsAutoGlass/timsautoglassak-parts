@@ -14,7 +14,7 @@ const MODELS_DIR = path.join(__dirname, '..', '..', 'data', 'vehicles-index', 'm
 const YEARS_DIR = path.join(__dirname, '..', '..', 'data', 'vehicles-index', 'years');
 
 const CURRENT_YEAR = new Date().getFullYear() + 1; // Include next model year
-const START_YEAR = 2000;
+const START_YEAR = 1980;
 const DELAY_MS = 300;
 
 function slugify(name) {

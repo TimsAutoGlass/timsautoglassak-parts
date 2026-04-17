@@ -1,0 +1,41 @@
+{
+  "vehicle": {
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "year": 2022
+  },
+  "glass_type": "windshield",
+  "parts": [
+    {
+      "part_number": "FW05087GTY",
+      "type": "aftermarket",
+      "features": [
+        "ADAS"
+      ],
+      "source": "rockauto",
+      "last_seen": "2026-04-17",
+      "confidence": 0.85
+    },
+    {
+      "part_number": "OEM-chevrolet-5087",
+      "type": "OEM",
+      "features": [
+        "ADAS"
+      ],
+      "source": "dealer",
+      "last_seen": "2026-04-17",
+      "confidence": 0.95
+    },
+    {
+      "part_number": "FW05087",
+      "type": "UNKNOWN",
+      "features": [],
+      "source": "ebay",
+      "last_seen": "2026-03-18",
+      "confidence": 0.6
+    }
+  ],
+  "notes": [
+    "ADAS calibration required"
+  ]
+}
