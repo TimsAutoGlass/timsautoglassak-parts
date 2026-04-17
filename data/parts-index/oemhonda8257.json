@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HONDA-8257",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "ACCORD",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

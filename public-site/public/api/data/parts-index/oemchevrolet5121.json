@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-5121",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "COLORADO",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

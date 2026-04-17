@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-3900",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "RANGER",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

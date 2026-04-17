@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-RAM-6569",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "RAM",
+      "model": "PROMASTER",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

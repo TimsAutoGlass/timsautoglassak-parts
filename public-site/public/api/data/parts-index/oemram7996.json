@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-RAM-7996",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "RAM",
+      "model": "2500",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

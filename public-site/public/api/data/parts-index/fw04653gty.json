@@ -1,0 +1,23 @@
+{
+  "part_number": "FW04653GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "TUCSON",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "NISSAN",
+      "model": "ALTIMA",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

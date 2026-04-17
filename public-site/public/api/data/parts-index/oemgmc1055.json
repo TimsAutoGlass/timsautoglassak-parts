@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-1055",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "TERRAIN",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

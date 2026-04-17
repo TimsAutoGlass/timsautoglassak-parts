@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-SUBARU-5706",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "OUTBACK",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

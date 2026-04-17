@@ -1,0 +1,21 @@
+{
+  "part_number": "FW08765",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "FUSION",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

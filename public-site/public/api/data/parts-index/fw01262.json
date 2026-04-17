@@ -1,0 +1,15 @@
+{
+  "part_number": "FW01262",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "TESLA",
+      "model": "MODEL Y",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

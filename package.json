@@ -15,8 +15,9 @@
     "normalize": "node scripts/normalize/normalize-names.js",
     "validate": "node scripts/validate/validate-schema.js",
     "auto:market": "node scripts/automation/daily-market-scrape.js",
+    "generate:index": "node scripts/generate-part-index.js",
     "generate:top50": "node scripts/generate-top-vehicles.js",
-    "build": "npm run ingest:makes && npm run ingest:models && npm run normalize && npm run validate"
+    "build": "npm run ingest:makes && npm run ingest:models && npm run normalize && npm run validate && npm run generate:index"
   },
   "dependencies": {
     "ajv": "^8.17.1"

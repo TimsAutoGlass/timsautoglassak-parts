@@ -1,0 +1,18 @@
+{
+  "part_number": "FW03101GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "F 250",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

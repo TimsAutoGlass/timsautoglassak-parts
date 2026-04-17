@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MERCEDES-BENZ-3916",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "SPRINTER",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

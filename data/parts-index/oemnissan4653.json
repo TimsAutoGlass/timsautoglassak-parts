@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-4653",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "ALTIMA",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

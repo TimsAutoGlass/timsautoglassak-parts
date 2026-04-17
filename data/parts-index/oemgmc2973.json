@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-2973",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "SIERRA 1500",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

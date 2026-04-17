@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-6846",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "FUSION",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

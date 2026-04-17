@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-8481",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

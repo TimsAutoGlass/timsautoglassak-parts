@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-8923",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "CANYON",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

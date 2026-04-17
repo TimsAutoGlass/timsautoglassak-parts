@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-6290",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "F 250",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

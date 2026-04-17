@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-DODGE-6502",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "DODGE",
+      "model": "DURANGO",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

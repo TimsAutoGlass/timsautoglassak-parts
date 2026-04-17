@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-5846",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "MALIBU",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

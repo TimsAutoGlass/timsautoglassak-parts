@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MERCEDES-BENZ-4980",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "SPRINTER",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

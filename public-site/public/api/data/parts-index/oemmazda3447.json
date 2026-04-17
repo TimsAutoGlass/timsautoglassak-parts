@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MAZDA-3447",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MAZDA",
+      "model": "CX 9",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

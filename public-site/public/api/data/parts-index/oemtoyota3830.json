@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-3830",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

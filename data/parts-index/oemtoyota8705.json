@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-8705",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "RAV4",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

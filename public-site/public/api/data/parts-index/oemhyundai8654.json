@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-8654",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "ELANTRA",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

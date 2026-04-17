@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-8147",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "TRANSIT",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

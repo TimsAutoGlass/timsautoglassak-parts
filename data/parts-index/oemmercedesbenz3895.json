@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MERCEDES-BENZ-3895",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "SPRINTER",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

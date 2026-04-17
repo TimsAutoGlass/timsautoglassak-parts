@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HONDA-6708",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "HR V",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

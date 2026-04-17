@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-3384",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "MALIBU",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-4190",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "NV200",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

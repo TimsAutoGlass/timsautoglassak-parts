@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-TESLA-1075",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "TESLA",
+      "model": "MODEL Y",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

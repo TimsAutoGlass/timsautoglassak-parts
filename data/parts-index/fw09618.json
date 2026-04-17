@@ -1,0 +1,21 @@
+{
+  "part_number": "FW09618",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "ESCAPE",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

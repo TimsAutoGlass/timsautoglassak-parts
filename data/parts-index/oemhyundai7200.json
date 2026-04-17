@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-7200",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "ELANTRA",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

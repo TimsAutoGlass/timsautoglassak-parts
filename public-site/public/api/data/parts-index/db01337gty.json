@@ -1,0 +1,21 @@
+{
+  "part_number": "DB01337GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "year": "2023",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "RAV4",
+      "year": "2019",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

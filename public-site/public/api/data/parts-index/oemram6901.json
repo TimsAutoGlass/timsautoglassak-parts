@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-RAM-6901",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "RAM",
+      "model": "PROMASTER",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

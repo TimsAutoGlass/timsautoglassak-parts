@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-4320",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "ALTIMA",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

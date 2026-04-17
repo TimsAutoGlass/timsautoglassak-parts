@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-TESLA-8769",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

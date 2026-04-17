@@ -1,0 +1,18 @@
+{
+  "part_number": "FW01038GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "F 150",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

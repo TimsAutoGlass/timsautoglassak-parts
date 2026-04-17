@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-3493",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "COMPASS",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

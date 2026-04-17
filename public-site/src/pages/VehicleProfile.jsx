@@ -71,7 +71,9 @@ export default function VehicleProfile() {
                     <div className="part-info">
                       <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                         <Package size={16} color="var(--text-muted)" />
-                        <span style={{ fontSize: '1.1rem', fontWeight: 600, fontFamily: 'monospace' }}>{p.part_number}</span>
+                        <Link to={`/part/${p.part_number}`} style={{ fontSize: '1.1rem', fontWeight: 600, fontFamily: 'monospace', color: 'var(--text-main)', textDecoration: 'none' }}>
+                          <span style={{ borderBottom: '1px dashed var(--text-muted)' }}>{p.part_number}</span>
+                        </Link>
                         <span className={`tag ${p.type === 'OEM' ? 'oem' : (p.type === 'aftermarket' ? 'aftermarket' : 'blue')}`} style={{ fontSize: '0.7rem' }}>
                           {p.type}
                         </span>

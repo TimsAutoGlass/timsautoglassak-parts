@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-8450",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "EQUINOX",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-4928",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "ELANTRA",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

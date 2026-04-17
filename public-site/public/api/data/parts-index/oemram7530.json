@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-RAM-7530",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "RAM",
+      "model": "2500",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

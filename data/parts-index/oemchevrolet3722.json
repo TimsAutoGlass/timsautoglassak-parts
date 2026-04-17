@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-3722",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "TAHOE",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

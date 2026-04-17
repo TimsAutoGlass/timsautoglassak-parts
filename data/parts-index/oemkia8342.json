@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-KIA-8342",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "KIA",
+      "model": "SORENTO",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

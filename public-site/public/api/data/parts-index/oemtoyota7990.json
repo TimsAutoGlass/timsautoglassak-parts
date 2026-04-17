@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-7990",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "CAMRY",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HONDA-4909",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

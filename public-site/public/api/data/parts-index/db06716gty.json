@@ -1,0 +1,21 @@
+{
+  "part_number": "DB06716GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "TUCSON",
+      "year": "2023",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "FORD",
+      "model": "F 150",
+      "year": "2021",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

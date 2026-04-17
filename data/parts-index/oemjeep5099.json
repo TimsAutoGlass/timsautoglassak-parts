@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-5099",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "COMPASS",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

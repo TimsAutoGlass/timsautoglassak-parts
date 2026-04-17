@@ -1,0 +1,21 @@
+{
+  "part_number": "DB01231GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "LEGACY",
+      "year": "2023",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "SUBARU",
+      "model": "OUTBACK",
+      "year": "2019",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

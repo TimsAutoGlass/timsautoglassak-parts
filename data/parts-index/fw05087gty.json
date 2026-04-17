@@ -1,0 +1,23 @@
+{
+  "part_number": "FW05087GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "EQUINOX",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-KIA-4802",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "KIA",
+      "model": "OPTIMA",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

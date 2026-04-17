@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-DODGE-6449",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "DODGE",
+      "model": "DURANGO",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

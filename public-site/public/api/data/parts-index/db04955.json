@@ -1,0 +1,21 @@
+{
+  "part_number": "DB04955",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2019",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "FORD",
+      "model": "F 150",
+      "year": "2018",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

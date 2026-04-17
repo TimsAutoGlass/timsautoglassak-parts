@@ -1,0 +1,21 @@
+{
+  "part_number": "DB01799",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2021",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2018",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

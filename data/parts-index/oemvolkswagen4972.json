@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-VOLKSWAGEN-4972",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

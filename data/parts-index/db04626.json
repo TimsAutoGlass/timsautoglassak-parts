@@ -1,0 +1,21 @@
+{
+  "part_number": "DB04626",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "SAVANA",
+      "year": "2021",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "SONATA",
+      "year": "2018",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HONDA-7914",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "ACCORD",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

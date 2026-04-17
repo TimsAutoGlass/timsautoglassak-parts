@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-DODGE-1839",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "DODGE",
+      "model": "DURANGO",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

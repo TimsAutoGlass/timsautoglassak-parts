@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-7871",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "4RUNNER",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

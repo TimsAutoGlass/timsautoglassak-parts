@@ -1,0 +1,21 @@
+{
+  "part_number": "FW02387",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "OUTBACK",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "HONDA",
+      "model": "CR V",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

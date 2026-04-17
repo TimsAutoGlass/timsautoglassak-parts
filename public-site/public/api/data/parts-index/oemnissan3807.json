@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-3807",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "NV200",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

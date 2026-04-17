@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-1516",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "COLORADO",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

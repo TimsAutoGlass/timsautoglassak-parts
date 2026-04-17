@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-TOYOTA-7233",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "RAV4",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

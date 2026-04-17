@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-2983",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "CANYON",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

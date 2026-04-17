@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-9909",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "CHEROKEE",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-9963",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "KONA",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

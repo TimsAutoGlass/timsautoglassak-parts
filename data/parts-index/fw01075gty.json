@@ -1,0 +1,17 @@
+{
+  "part_number": "FW01075GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "TESLA",
+      "model": "MODEL Y",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

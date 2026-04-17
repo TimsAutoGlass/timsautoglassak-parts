@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-KIA-7781",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "KIA",
+      "model": "OPTIMA",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

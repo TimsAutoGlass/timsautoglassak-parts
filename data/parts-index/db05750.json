@@ -1,0 +1,21 @@
+{
+  "part_number": "DB05750",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "RANGER",
+      "year": "2020",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "FORD",
+      "model": "F 150",
+      "year": "2019",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

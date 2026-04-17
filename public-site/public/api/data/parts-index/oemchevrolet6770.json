@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-6770",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "TAHOE",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

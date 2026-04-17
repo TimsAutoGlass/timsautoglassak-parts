@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-FORD-7198",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "FUSION",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

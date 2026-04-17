@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MAZDA-4272",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MAZDA",
+      "model": "CX 9",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

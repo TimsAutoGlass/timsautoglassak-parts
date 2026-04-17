@@ -1,0 +1,18 @@
+{
+  "part_number": "FW03900GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "RANGER",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "part_number": "FW08257GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "EDGE",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "HONDA",
+      "model": "ACCORD",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

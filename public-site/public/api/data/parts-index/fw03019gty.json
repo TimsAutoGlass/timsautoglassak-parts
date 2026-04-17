@@ -1,0 +1,18 @@
+{
+  "part_number": "FW03019GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "TRANSIT",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

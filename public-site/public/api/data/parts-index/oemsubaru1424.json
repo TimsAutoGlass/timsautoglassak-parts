@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-SUBARU-1424",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "CROSSTREK",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

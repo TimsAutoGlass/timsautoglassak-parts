@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HONDA-1396",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HONDA",
+      "model": "HR V",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

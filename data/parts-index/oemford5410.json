@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-FORD-5410",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "ESCAPE",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

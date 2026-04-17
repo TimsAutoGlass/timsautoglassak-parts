@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-7436",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "EXPRESS",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

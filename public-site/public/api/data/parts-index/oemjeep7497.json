@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-7497",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "CHEROKEE",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

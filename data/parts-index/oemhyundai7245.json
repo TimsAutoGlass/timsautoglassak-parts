@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-7245",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "TUCSON",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

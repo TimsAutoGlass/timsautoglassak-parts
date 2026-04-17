@@ -1,0 +1,24 @@
+{
+  "part_number": "FW03384GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "CROSSTREK",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MALIBU",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

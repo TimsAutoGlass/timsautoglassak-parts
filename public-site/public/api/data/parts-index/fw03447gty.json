@@ -1,0 +1,23 @@
+{
+  "part_number": "FW03447GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "CANYON",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "MAZDA",
+      "model": "CX 9",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

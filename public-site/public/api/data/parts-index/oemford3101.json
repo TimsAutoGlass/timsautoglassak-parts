@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-3101",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "F 250",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "part_number": "FW03384",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "CROSSTREK",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MALIBU",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

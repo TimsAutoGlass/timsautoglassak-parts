@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-VOLKSWAGEN-5513",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "VOLKSWAGEN",
+      "model": "TIGUAN",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

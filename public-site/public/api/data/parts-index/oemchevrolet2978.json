@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-2978",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "COLORADO",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

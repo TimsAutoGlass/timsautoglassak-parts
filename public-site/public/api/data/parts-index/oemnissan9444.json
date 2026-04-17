@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-9444",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "ROGUE",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

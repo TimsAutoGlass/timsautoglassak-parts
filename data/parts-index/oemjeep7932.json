@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-7932",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "COMPASS",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

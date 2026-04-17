@@ -1,0 +1,21 @@
+{
+  "part_number": "DB02452GTY",
+  "types": [
+    "aftermarket"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "SIERRA 1500",
+      "year": "2023",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "RAM",
+      "model": "1500",
+      "year": "2023",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

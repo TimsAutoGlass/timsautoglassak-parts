@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-7858",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "SIERRA 1500",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-GMC-7819",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "GMC",
+      "model": "YUKON",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

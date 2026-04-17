@@ -1,0 +1,21 @@
+{
+  "part_number": "DB02084",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "year": "2019",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "FORD",
+      "model": "F 250",
+      "year": "2018",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

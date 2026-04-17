@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-9888",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "TUCSON",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

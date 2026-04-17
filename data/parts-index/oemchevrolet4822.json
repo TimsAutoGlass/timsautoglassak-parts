@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-4822",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "MALIBU",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

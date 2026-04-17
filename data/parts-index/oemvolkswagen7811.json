@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-VOLKSWAGEN-7811",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "VOLKSWAGEN",
+      "model": "TIGUAN",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

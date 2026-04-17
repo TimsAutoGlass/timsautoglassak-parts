@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-HYUNDAI-9698",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "HYUNDAI",
+      "model": "ELANTRA",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

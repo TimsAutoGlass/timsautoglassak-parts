@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-JEEP-6240",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "GRAND CHEROKEE",
+      "year": "2021",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

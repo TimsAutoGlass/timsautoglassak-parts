@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-2137",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "SUBURBAN",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

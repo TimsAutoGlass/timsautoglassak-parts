@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-NISSAN-6343",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "NISSAN",
+      "model": "SENTRA",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

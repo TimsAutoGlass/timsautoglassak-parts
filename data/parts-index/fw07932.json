@@ -1,0 +1,21 @@
+{
+  "part_number": "FW07932",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "JEEP",
+      "model": "COMPASS",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "PASSAT",
+      "year": "2020",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

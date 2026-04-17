@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-6982",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "COLORADO",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-KIA-1511",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "KIA",
+      "model": "SPORTAGE",
+      "year": "2019",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

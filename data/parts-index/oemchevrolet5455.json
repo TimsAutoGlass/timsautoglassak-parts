@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-5455",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "TAHOE",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

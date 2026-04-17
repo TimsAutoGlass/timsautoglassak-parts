@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-SUBARU-6549",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "SUBARU",
+      "model": "FORESTER",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

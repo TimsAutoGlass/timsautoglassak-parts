@@ -1,0 +1,18 @@
+{
+  "part_number": "OEM-FORD-5693",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS",
+    "rain_sensor"
+  ],
+  "fitment": [
+    {
+      "make": "FORD",
+      "model": "F 150",
+      "year": "2023",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

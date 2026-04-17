@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-TOYOTA-1186",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

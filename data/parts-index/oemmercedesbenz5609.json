@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-MERCEDES-BENZ-5609",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "MERCEDES-BENZ",
+      "model": "SPRINTER",
+      "year": "2018",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}

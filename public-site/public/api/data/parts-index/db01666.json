@@ -1,0 +1,21 @@
+{
+  "part_number": "DB01666",
+  "types": [
+    "UNKNOWN"
+  ],
+  "features": [],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "SUBURBAN",
+      "year": "2020",
+      "glass_type": "BACK GLASS"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "year": "2018",
+      "glass_type": "BACK GLASS"
+    }
+  ]
+}

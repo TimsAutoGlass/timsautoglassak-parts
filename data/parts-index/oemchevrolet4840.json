@@ -1,0 +1,17 @@
+{
+  "part_number": "OEM-CHEVROLET-4840",
+  "types": [
+    "OEM"
+  ],
+  "features": [
+    "ADAS"
+  ],
+  "fitment": [
+    {
+      "make": "CHEVROLET",
+      "model": "SILVERADO 1500",
+      "year": "2022",
+      "glass_type": "WINDSHIELD"
+    }
+  ]
+}
