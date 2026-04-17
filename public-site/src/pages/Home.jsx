@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, ShieldCheck, DatabaseZap, CheckCircle2 } from 'lucide-react';
 
@@ -6,6 +6,8 @@ export default function Home() {
   const [vehicles, setVehicles] = useState([]);
   const [search, setSearch] = useState('');
   const [makes, setMakes] = useState([]);
+  const [selectedMake, setSelectedMake] = useState('ALL');
+  const searchRef = useRef(null);
 
   useEffect(() => {
     // Fetch Supported Makes count
@@ -23,13 +25,23 @@ export default function Home() {
         if (Array.isArray(data)) setVehicles(data);
       })
       .catch(console.error);
+
+    // CMD+K Focus Logic
+    const handleKeyDown = (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        searchRef.current?.focus();
+      }
+    };
+    document.addEventListener('keydown', handleKeyDown);
+    return () => document.removeEventListener('keydown', handleKeyDown);
   }, []);
 
-  const filtered = search.trim() === '' 
-    ? vehicles 
-    : vehicles.filter(v => 
-        `${v.make} ${v.model} ${v.year}`.toLowerCase().includes(search.toLowerCase())
-      );
+  const filtered = vehicles.filter(v => {
+    const matchesSearch = search.trim() === '' || `${v.make} ${v.model} ${v.year}`.toLowerCase().includes(search.toLowerCase());
+    const matchesMake = selectedMake === 'ALL' || v.make.toUpperCase() === selectedMake.toUpperCase();
+    return matchesSearch && matchesMake;
+  });
 
   return (
     <div className="container animate-in">
@@ -44,15 +56,35 @@ export default function Home() {
       </div>
 
       <div className="search-container delay-1">
-        <Search style={{ position: 'absolute', left: '1.25rem', top: '1.25rem', color: '#94a3b8' }} size={24} />
-        <input 
-          type="text" 
-          className="search-input" 
-          placeholder="Search by VIN, Make, Model, or Year..." 
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          style={{ paddingLeft: '3.5rem' }}
-        />
+        <div style={{ position: 'relative', display: 'flex', gap: '0.5rem' }}>
+          <div style={{ position: 'relative', flexGrow: 1 }}>
+            <Search style={{ position: 'absolute', left: '1.25rem', top: '1.25rem', color: '#94a3b8' }} size={24} />
+            <input 
+              ref={searchRef}
+              type="text" 
+              className="search-input" 
+              placeholder="Search by VIN, Make, Model, or Year..." 
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              style={{ paddingLeft: '3.5rem' }}
+            />
+            <div style={{ position: 'absolute', right: '1.25rem', top: '1.35rem', color: 'var(--text-muted)', fontSize: '0.8rem', background: 'rgba(255,255,255,0.1)', padding: '2px 6px', borderRadius: '4px', pointerEvents: 'none' }}>
+              ⌘K
+            </div>
+          </div>
+          
+          <select 
+            value={selectedMake} 
+            onChange={(e) => setSelectedMake(e.target.value)}
+            className="search-input"
+            style={{ width: 'auto', paddingLeft: '1rem', paddingRight: '2rem', cursor: 'pointer', appearance: 'none' }}
+          >
+            <option value="ALL">All Makes</option>
+            {makes.map(m => (
+              <option key={m} value={m}>{m}</option>
+            ))}
+          </select>
+        </div>
         
         {/* Trust Badges */}
         <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', marginTop: '2rem', animation: 'fadeUp 0.5s 0.2s backwards' }}>

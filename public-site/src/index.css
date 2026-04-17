@@ -15,6 +15,37 @@
   --radius: 12px;
 }
 
+[data-theme="light"] {
+  --bg-color: #f8fafc;
+  --bg-gradient: radial-gradient(circle at top right, #f1f5f9 0%, #e2e8f0 100%);
+  --surface: rgba(255, 255, 255, 0.7);
+  --surface-hover: rgba(255, 255, 255, 0.9);
+  --border: rgba(0, 0, 0, 0.1);
+  --text-main: #0f172a;
+  --text-muted: #475569;
+}
+
+[data-theme="light"] h1 {
+  background: linear-gradient(135deg, #0f172a 0%, #475569 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+[data-theme="light"] .app-header {
+  background: rgba(248, 250, 252, 0.8);
+}
+
+[data-theme="light"] .logo img {
+  filter: invert(1); /* Inverts the white logo to black */
+  opacity: 0.9;
+}
+
+[data-theme='light'] .search-input {
+  background: rgba(255, 255, 255, 0.8);
+  color: #0f172a;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+}
+
 * {
   margin: 0;
   padding: 0;
