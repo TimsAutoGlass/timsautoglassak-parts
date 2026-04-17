@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { ShieldCheck, Info, Package, AlertTriangle, ExternalLink, Copy, Check } from 'lucide-react';
+
 export const getOemCatalogUrl = (make, partNumber) => {
   const p = encodeURIComponent(partNumber);
   const m = make?.toUpperCase() || 'UNKNOWN';
@@ -37,6 +39,14 @@ export default function VehicleProfile() {
   const [parts, setParts] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [copied, setCopied] = useState(null);
+
+  const handleCopy = (e, text) => {
+    e.preventDefault();
+    navigator.clipboard.writeText(text);
+    setCopied(text);
+    setTimeout(() => setCopied(null), 2000);
+  };
 
   useEffect(() => {
     // Fetch directly from the compiled local API structure
@@ -88,6 +98,13 @@ export default function VehicleProfile() {
                 <span className="tag blue">{data.parts.length} Part Numbers Found</span>
               </h2>
 
+              {data.parts.some(p => p.features && p.features.some(f => f.toUpperCase().includes('ADAS'))) && (
+                <div style={{ background: 'rgba(239, 68, 68, 0.1)', border: '1px solid rgba(239, 68, 68, 0.3)', padding: '1rem', borderRadius: '8px', color: '#ef4444', fontSize: '0.875rem', marginBottom: '1.5rem', display: 'flex', gap: '0.5rem', fontWeight: 600 }}>
+                  <AlertTriangle size={18} />
+                  <div>⚠️ CALIBRATION WARNING: This vehicle requires ADAS camera recalibration after windshield replacement. Always quote the recalibration fee.</div>
+                </div>
+              )}
+
               {data.notes && data.notes.length > 0 && (
                 <div style={{ background: 'rgba(245, 158, 11, 0.1)', border: '1px solid rgba(245, 158, 11, 0.3)', padding: '1rem', borderRadius: '8px', color: '#fbbf24', fontSize: '0.875rem', marginBottom: '1.5rem', display: 'flex', gap: '0.5rem' }}>
                   <AlertTriangle size={18} />
@@ -104,6 +121,13 @@ export default function VehicleProfile() {
                         <Link to={`/part/${p.part_number}`} style={{ fontSize: '1.1rem', fontWeight: 600, fontFamily: 'monospace', color: 'var(--text-main)', textDecoration: 'none' }}>
                           <span style={{ borderBottom: '1px dashed var(--text-muted)' }}>{p.part_number}</span>
                         </Link>
+                        <button 
+                          onClick={(e) => handleCopy(e, p.part_number)}
+                          style={{ background: 'transparent', border: 'none', cursor: 'pointer', padding: '4px', display: 'flex', alignItems: 'center', color: copied === p.part_number ? '#10b981' : 'var(--text-muted)' }}
+                          title="Copy Part Number to Clipboard"
+                        >
+                          {copied === p.part_number ? <Check size={14} /> : <Copy size={14} />}
+                        </button>
                         <span className={`tag ${p.type === 'OEM' ? 'oem' : (p.type === 'aftermarket' ? 'aftermarket' : 'blue')}`} style={{ fontSize: '0.7rem' }}>
                           {p.type}
                         </span>

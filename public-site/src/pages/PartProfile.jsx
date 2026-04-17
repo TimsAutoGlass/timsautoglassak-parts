@@ -1,12 +1,19 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Package, ShieldCheck, CheckCircle2, Factory, ExternalLink, Search } from 'lucide-react';
+import { Package, ShieldCheck, CheckCircle2, Factory, ExternalLink, Search, Copy, Check } from 'lucide-react';
 import { getOemCatalogUrl } from './VehicleProfile';
 
 export default function PartProfile() {
   const { partNumber } = useParams();
   const [part, setPart] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = () => {
+    navigator.clipboard.writeText(part.part_number);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
 
   useEffect(() => {
     // Fetch directly from the compiled reverse-index API structure
@@ -43,7 +50,16 @@ export default function PartProfile() {
           <div style={{ color: 'var(--accent)', fontWeight: 600, fontSize: '1.25rem', marginBottom: '0.5rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
             <Package size={20} /> INTERCHANGE PROFILE
           </div>
-          <h1 style={{ marginBottom: 0, textTransform: 'uppercase', fontFamily: 'monospace' }}>{part.part_number}</h1>
+          <h1 style={{ marginBottom: 0, textTransform: 'uppercase', fontFamily: 'monospace', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            {part.part_number}
+            <button 
+              onClick={handleCopy}
+              style={{ background: 'transparent', border: 'none', cursor: 'pointer', padding: '4px', display: 'flex', alignItems: 'center', color: copied ? '#10b981' : 'var(--text-muted)' }}
+              title="Copy Part Number to Clipboard"
+            >
+              {copied ? <Check size={20} /> : <Copy size={20} />}
+            </button>
+          </h1>
         </div>
         <div style={{ textAlign: 'right' }}>
           <div className="tag success" style={{ padding: '0.5rem 1rem', fontSize: '1rem' }}>
